@@ -2,9 +2,9 @@
   "output": "../",
   "locals": {
     "url": "http://localhost:8080",
-    "name": "This blog of mine",
+    "name": "A Blog",
     "owner": "Christen Thompson",
-    "description": "yet another blog"
+    "description": ""
   },
   "plugins": [
     "./plugins/paginator.coffee"
