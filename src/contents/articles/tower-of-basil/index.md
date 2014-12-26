@@ -1,11 +1,11 @@
 ---
-title: Tower of Basil by Adam Lebor
+title: Tower of Basel by Adam Lebor
 author: Christen Thompson
 date: 2014-12-26
 template: article.jade 
 ---
 
-The Bank of International Settlement. A bank that keeps the money flowing in times of peace and war. Loyal to neutrality the bank serviced Nazi Germany and helped enable their war effort and economy.
+The Bank of International Settlements. A bank that keeps the money flowing in times of peace and war. Loyal to neutrality the bank serviced Nazi Germany and helped enable their war effort and economy.
 
 <span class="more"></span>
 
