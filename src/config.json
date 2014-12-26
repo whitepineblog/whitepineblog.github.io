@@ -2,7 +2,7 @@
   "output": "../",
   "locals": {
     "url": "http://localhost:8080",
-    "name": "A Blog",
+    "name": "Some Notes",
     "owner": "Christen Thompson",
     "description": ""
   },
