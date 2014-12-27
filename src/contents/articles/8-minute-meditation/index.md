@@ -5,7 +5,7 @@ date: 2014-12-27
 template: article.jade 
 ---
 
-Gain a sharper focus, more patience and more appreciation for this moment in your life throught the practice of Meditation. Learning to mediate isn't hard.
+Gain a sharper focus, more patience and more appreciation for this moment in your life through the practice of Meditation. Learning to mediate isn't hard.
 
 <span class="more"></span>
 
