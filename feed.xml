@@ -5,9 +5,64 @@
     <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://localhost:8080</link>
     <description></description>
-    <pubDate>Fri, 09 Jan 2015 16:00:00 -0800</pubDate>
+    <pubDate>Tue, 20 Jan 2015 16:00:00 -0800</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>The Innovators by Walter Isaacson</title>
+      <link>http://localhost:8080/articles/innovators/</link>
+      <pubDate>Tue, 20 Jan 2015 16:00:00 -0800</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/innovators/</guid>
+      <author></author>
+      <description>&lt;p&gt;The closing paragraph of the book sums up the story it tells nicely.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“This innovation will come from people who are able to link beauty to engineering, humanity to technology, and poetry to processors. In other words, it will come from the spiritual heirs of Ada Lovelace, creators who can flourish where the arts intersect with the sciences and who have a rebellious sense of wonder that opens them to the beauty of both.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Science, art, teamwork and good execution end up changing the world.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;He begins with Charles Babbage and Ada Lovelace and peppers stories of lives and critcal inventions from then to today.  What touched me most about this book was the effect humans can have on the world. By creating something truly amazing and grand these individuals working together on a national,  company, and small clubs have changed everything.&lt;/p&gt;
+&lt;p&gt;Although Ada’s personal story was tragic, she never met her father and died at the age of 36 her idea to be able to program a machine to perform different tasks was eventually accomplished. Again and again we read in the book of an invention, and idea that changed the world.  ALthough he does share examples of lone inventors who were never able to execute properly and so their ideas while good did not change anything.&lt;/p&gt;
+&lt;p&gt;George Boole created the language where logic could be easily expressed. &lt;/p&gt;
+&lt;p&gt;The ENIAC used mechanical gates to create logic ciruits, then along came the vacum tube then with the transistor everythin was different.&lt;/p&gt;
+&lt;p&gt;Oxide layers between the silicon allowed for laying down paths to create the logic gates.&lt;/p&gt;
+&lt;p&gt;Joyhny Von Neuman was quite the character a true genius who helped create atomic weapons eventually dying of cacner.&lt;/p&gt;
+&lt;p&gt;Some other favorite quotes: &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;War mobilizes science.&lt;/p&gt;
+&lt;p&gt;Understand which industries are symbiotic so that you can capitalize on how they will spur eachother on.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Arthur Rock:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“I belive so strongly in people that I think talking to the individual is much more important than finding out to much about what they want to do”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Vannevar Bush:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“Basic research leads to new knowledge. It provides scientific capital. It creast the fund from which the practical applications of knowledge must be drawn”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Another theme of the book:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“Once again the greatest innovation would come not from the people who created the breakthrough but from the people who applied them usefully”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The stories in the book were great. Human beings pushing the frontiers of science and knowledge creating the future today.  And it is really exciting. Just today Microsoft annoucned their augmented reality glasses. I can’t wait to try them to see what I can create with them.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>The Normans From Raiders to Kings by Lars Brownworth</title>
+      <link>http://localhost:8080/articles/normans/</link>
+      <pubDate>Tue, 20 Jan 2015 16:00:00 -0800</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/normans/</guid>
+      <author></author>
+      <description>&lt;p&gt;King Harold of England has his armies ready for the invasion rumored to come. But he can’t keep his armies in the field forever and as fall aproaches he disbands them and they prepare for winter.  Then news arives the Viking King Hadrada had invaded with Harold’s estranged brother and had taken the city of York.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;York has agreed to give hostages to the vikings at a nearby bridge. So the vikings return to their ships and at the apointed time arrive to recieve the hostages. To their suprise they are met with an army instead.&lt;/p&gt;
+&lt;p&gt;King Harold had covered 185 miles in four days with his army and was able to fend of the viking attack. The victory was short lived news came that the Duke of Normandy from France was invading London.  Harold rushed his army back but was defeated and killed.&lt;/p&gt;
+&lt;p&gt;So a Norman became ruler of Britian as well as the most powerfull leader in France.&lt;/p&gt;
+&lt;p&gt;The book tells of their rise and fall and rise and fall.  The normans created a kingdom in Siciliy and southern Italy and had a huge impact on Europe during their reigns.&lt;/p&gt;
+&lt;p&gt;I was struck with the futility of these men. They fought, they killed then died and left nothing permanent or prosperous in their wake. Well maybe some did but it didn’t last very long.  &lt;/p&gt;
+&lt;p&gt;It was a violent time to live. It makes me grateful for the rule of law ideas that come down from the anglo saxons and their Magna Carta.  &lt;/p&gt;
+&lt;p&gt;All in all it was rather depressing to listen to the terrible things humans have done to each other for power and greed. &lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Voltair by Ian Davidson</title>
       <link>http://localhost:8080/articles/voltaire/</link>
