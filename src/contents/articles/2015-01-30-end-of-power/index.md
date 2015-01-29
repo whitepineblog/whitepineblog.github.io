@@ -1,7 +1,7 @@
 ---
 title: The End of Power by Moises Naim
 author: Christen Thompson
-date: 2015-1-30
+date: 2015-1-29
 template: article.jade 
 ---
 

@@ -9,9 +9,29 @@
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
     <item>
+      <title>Probably Approximately Correct by Leslie Valiant Part 1</title>
+      <link>http://localhost:8080/articles/2015-01-30-pac/</link>
+      <pubDate>Thu, 29 Jan 2015 16:00:00 -0800</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/2015-01-30-pac/</guid>
+      <author></author>
+      <description>&lt;p&gt;Evolution is the process of learning what works and what doesn’t based on feedback of changes in the genome. Describing that process in an algorithm or ecorithm as the author describes it will allow us to create programs that can learn.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;I must say I love this book.  So many great ideas. &lt;/p&gt;
+&lt;p&gt;Humans and other creatures react to the world without having to understand how everything works.  You don’t have to understand the underlying theories of electro magnetism to use a computer, or the standard model in physics to get through your life successfully.&lt;/p&gt;
+&lt;p&gt;Worms can burrow through the ground without apparently any understanding fo the physical laws they are subject to. &lt;/p&gt;
+&lt;p&gt;Learning is done by concreate mechanisms that can be understood by the methods of computer science.&lt;/p&gt;
+&lt;p&gt;Ecorithims are algorithims that derie their power from learning from whatevery environment they inhabit.&lt;/p&gt;
+&lt;p&gt;Ecorithims can be designed using conjuction and dejunctions (simple identifying statements that are stackable) you can identify and classify things as being positive or negative for the simulated organism.  Or you can identify and classify things as plants are animals depending on a rule set.  You have to have some examples to start with.  Hopefully these examples are randomly chosen then you need to establish your rules and then you need to be able to correct your rules when you find them being incorrect.&lt;/p&gt;
+&lt;p&gt;Humans have the code to generate 20,000 different protiens, then we have regulatory genes that control when those protiens are encoded and how often. Then there are environmental factors and epigenetics.  Lots of variables. &lt;/p&gt;
+&lt;p&gt;Then there is the need for reasoning on top of that.&lt;/p&gt;
+&lt;p&gt;We don’t have the perfect algorithim yet, but we are getting closer.&lt;/p&gt;
+&lt;p&gt;Come back for part 2 when I take a closer look at some of the algorithims.&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>The End of Power by Moises Naim</title>
       <link>http://localhost:8080/articles/2015-01-30-end-of-power/</link>
-      <pubDate>Thu, 29 Jan 2015 16:00:00 -0800</pubDate>
+      <pubDate>Wed, 28 Jan 2015 16:00:00 -0800</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/2015-01-30-end-of-power/</guid>
       <author></author>
       <description>&lt;p&gt;The world is changing in multiple ways. One interesting way is the extent of power that powerful people have and rapidly, especially in the last 30 years.&lt;/p&gt;
@@ -28,6 +48,23 @@
 &lt;p&gt;I liked being reminded that the world is changing and will continue to do so.  His question is what will it mean for security, for the future of our planet. It seems to be harder for Countries to agree to take action on big questions like climate change, north korea, Iran, pollution controls.  Will humans be better off with the powerful having less power?  He seems to think not and recommends we have more trust in our leaders and give them more power.&lt;/p&gt;
 &lt;p&gt;I reject that idea because we can’t trust our leaders, see NSA, legalized torture, CIA and the list goes on. &lt;/p&gt;
 &lt;p&gt;I am impressed with what groups of like minded citizens and people have accomplished in the past.  From saving and creating national parks, the environmental movement, the civil rights movement.  These weren’t accomplished by established political leaders but by the people. Yes there is danger in radicals and violent criminals but we shouldn’t surrender more rights just to feel safer. The future is definately going to be interesting and  will be shaped by the ideas of more people then ever before.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>The Normans From Raiders to Kings by Lars Brownworth</title>
+      <link>http://localhost:8080/articles/normans/</link>
+      <pubDate>Tue, 20 Jan 2015 16:00:00 -0800</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/normans/</guid>
+      <author></author>
+      <description>&lt;p&gt;King Harold of England has his armies ready for the invasion rumored to come. But he can’t keep his armies in the field forever and as fall aproaches he disbands them and they prepare for winter.  Then news arives the Viking King Hadrada had invaded with Harold’s estranged brother and had taken the city of York.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;York has agreed to give hostages to the vikings at a nearby bridge. So the vikings return to their ships and at the apointed time arrive to recieve the hostages. To their suprise they are met with an army instead.&lt;/p&gt;
+&lt;p&gt;King Harold had covered 185 miles in four days with his army and was able to fend of the viking attack. The victory was short lived news came that the Duke of Normandy from France was invading London.  Harold rushed his army back but was defeated and killed.&lt;/p&gt;
+&lt;p&gt;So a Norman became ruler of Britian as well as the most powerfull leader in France.&lt;/p&gt;
+&lt;p&gt;The book tells of their rise and fall and rise and fall.  The normans created a kingdom in Siciliy and southern Italy and had a huge impact on Europe during their reigns.&lt;/p&gt;
+&lt;p&gt;I was struck with the futility of these men. They fought, they killed then died and left nothing permanent or prosperous in their wake. Well maybe some did but it didn’t last very long.  &lt;/p&gt;
+&lt;p&gt;It was a violent time to live. It makes me grateful for the rule of law ideas that come down from the anglo saxons and their Magna Carta.  &lt;/p&gt;
+&lt;p&gt;All in all it was rather depressing to listen to the terrible things humans have done to each other for power and greed. &lt;/p&gt;
 </description>
     </item>
     <item>
@@ -66,23 +103,6 @@
 &lt;p&gt;“Once again the greatest innovation would come not from the people who created the breakthrough but from the people who applied them usefully”&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;The stories in the book were great. Human beings pushing the frontiers of science and knowledge creating the future today.  And it is really exciting. Just today Microsoft annoucned their augmented reality glasses. I can’t wait to try them to see what I can create with them.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>The Normans From Raiders to Kings by Lars Brownworth</title>
-      <link>http://localhost:8080/articles/normans/</link>
-      <pubDate>Tue, 20 Jan 2015 16:00:00 -0800</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/normans/</guid>
-      <author></author>
-      <description>&lt;p&gt;King Harold of England has his armies ready for the invasion rumored to come. But he can’t keep his armies in the field forever and as fall aproaches he disbands them and they prepare for winter.  Then news arives the Viking King Hadrada had invaded with Harold’s estranged brother and had taken the city of York.&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;York has agreed to give hostages to the vikings at a nearby bridge. So the vikings return to their ships and at the apointed time arrive to recieve the hostages. To their suprise they are met with an army instead.&lt;/p&gt;
-&lt;p&gt;King Harold had covered 185 miles in four days with his army and was able to fend of the viking attack. The victory was short lived news came that the Duke of Normandy from France was invading London.  Harold rushed his army back but was defeated and killed.&lt;/p&gt;
-&lt;p&gt;So a Norman became ruler of Britian as well as the most powerfull leader in France.&lt;/p&gt;
-&lt;p&gt;The book tells of their rise and fall and rise and fall.  The normans created a kingdom in Siciliy and southern Italy and had a huge impact on Europe during their reigns.&lt;/p&gt;
-&lt;p&gt;I was struck with the futility of these men. They fought, they killed then died and left nothing permanent or prosperous in their wake. Well maybe some did but it didn’t last very long.  &lt;/p&gt;
-&lt;p&gt;It was a violent time to live. It makes me grateful for the rule of law ideas that come down from the anglo saxons and their Magna Carta.  &lt;/p&gt;
-&lt;p&gt;All in all it was rather depressing to listen to the terrible things humans have done to each other for power and greed. &lt;/p&gt;
 </description>
     </item>
     <item>
