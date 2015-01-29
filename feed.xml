@@ -5,9 +5,24 @@
     <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://localhost:8080</link>
     <description></description>
-    <pubDate>Tue, 20 Jan 2015 16:00:00 -0800</pubDate>
+    <pubDate>Thu, 29 Jan 2015 16:00:00 -0800</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>The End of Power by Moises Naim</title>
+      <link>http://localhost:8080/articles/2015-01-30-end-of-power/</link>
+      <pubDate>Thu, 29 Jan 2015 16:00:00 -0800</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/2015-01-30-end-of-power/</guid>
+      <author></author>
+      <description>&lt;p&gt;The world is changing in multiple ways. One interesting way is the extent of power that powerful people have and rapidly, especially in the last 30 years.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;He defines power as the ability to cause people to do somethin they would not normally do.&lt;/p&gt;
+&lt;p&gt;Ways of exercising power include muscle (force), pitch (convincing), code (tradition), and reward.&lt;/p&gt;
+&lt;p&gt;Power is exercised in all facets of life from home to work to family. &lt;/p&gt;
+&lt;p&gt;With the definition of power out of the way and how it works he launches into a myriad of examples of how the old power structures are now weaker and more constrained then they were in the past.  Politics, religion, businesses are all effected by this.&lt;/p&gt;
+&lt;p&gt;For the past 20 years America has been the most powerful nation in the planet and has acted as a Hegemon.  This has created some amount of peace and stability but won’t last due to several factors.  The rise of the BRICS,  Brazil, Russia, China and South Africa.  The &lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>The Normans From Raiders to Kings by Lars Brownworth</title>
       <link>http://localhost:8080/articles/normans/</link>
