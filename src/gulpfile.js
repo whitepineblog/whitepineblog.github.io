@@ -24,6 +24,8 @@ var BUILD_DIR = '../';
 var CONTENT_DIR = 'contents';
 var TEMPLATES_DIR = 'templates';
 
+runWintersmith.settings.configFile = "config.json"
+
 
 //
 // Helper task - Starts Livereload server
