@@ -17,7 +17,7 @@ Worms can burrow through the ground without apparently any understanding fo the 
 
 Learning is done by concreate mechanisms that can be understood by the methods of computer science.
 
-Ecorithims are algorithims that derie their power from learning from whatevery environment they inhabit.
+Ecorithims are algorithims that derive their power from learning from whatever environment they inhabit.
 
 
 Ecorithims can be designed using conjuction and dejunctions (simple identifying statements that are stackable) you can identify and classify things as being positive or negative for the simulated organism.  Or you can identify and classify things as plants are animals depending on a rule set.  You have to have some examples to start with.  Hopefully these examples are randomly chosen then you need to establish your rules and then you need to be able to correct your rules when you find them being incorrect.
