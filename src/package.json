@@ -6,6 +6,7 @@
   },
   "repository": "none",
   "devDependencies": {
+    "run-wintersmith": "0.0.3",
     "wintersmith-nunjucks": "^0.5.1"
   }
 }
