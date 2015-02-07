@@ -5,9 +5,39 @@
     <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://localhost:8080</link>
     <description></description>
-    <pubDate>Thu, 29 Jan 2015 16:00:00 -0800</pubDate>
+    <pubDate>Fri, 06 Feb 2015 16:00:00 -0800</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>Heroes of History by Will Durant</title>
+      <link>http://localhost:8080/articles/2015-02-07/</link>
+      <pubDate>Fri, 06 Feb 2015 16:00:00 -0800</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/2015-02-07/</guid>
+      <author></author>
+      <description>&lt;p&gt;From the pyramids to  Martin Luther and many people in between Durant paints a fascinating picture of humans and their interactions with each other.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The stories from ancient Greece, Rome and of others captured the reality of life in the era.  These people had their hopes and dreams, then lived and died.  Some accomplished a lot, it was amazing to see what some of these people had accomplished in their lives.&lt;/p&gt;
+&lt;p&gt;Pericles who held power for more then 30 years and created a marvelous peace.  It was interesting to read his wife Aspasia was a prostitute.  And then the rise of philosophy. These long dead people are still influencing thought in our world today.&lt;/p&gt;
+&lt;p&gt;Rome sure had interesting time of it. Good rulers and bad, from republic to empire.&lt;/p&gt;
+&lt;p&gt;Reading of Raphael and Michelangelo and there creations. Leonardo Davinci the epitome of the Renaissance. &lt;/p&gt;
+&lt;p&gt;The reformation was quite the event.  Individuals are powerful and can change the course of history in unexpected ways. I wonder what the short history of civilization will focus on 5,000 years from now. What sort of mention will my era get?&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Great Speeches in History by Normon Rodway, Samuel West</title>
+      <link>http://localhost:8080/articles/2015-02-03/</link>
+      <pubDate>Mon, 02 Feb 2015 16:00:00 -0800</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/2015-02-03/</guid>
+      <author></author>
+      <description>&lt;p&gt;Socrates, “Now it is time that we were going, I to die and you to live, but which of us has the happier prospect is unknown to anyone but God.”&lt;/p&gt;
+&lt;p&gt;The speeches begin with Socrates and our short excerpts but I certainly enjoyed stepping back in time to listen to Edmund Burke, Patrick Henry, Abraham Lincoln and others.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Demosthenes was angry and at the man who supported the conqueror of Greece, Cicero was angry and the man who he felt was betraying Rome, William of Normandy was mad at King Harold.&lt;/p&gt;
+&lt;p&gt;Lots of made people it was an interesting listen though.  I enjoyed Edmund Burke speaking out for American rights and what would happen if they were ignored.  I wonder if Britain had acted more responsibly what would America be today?&lt;/p&gt;
+&lt;p&gt;It was nice to be exposed to the speech against slavery and the speech from the French Revolution, then ending with the call for womens suffrage.&lt;/p&gt;
+&lt;p&gt;Styles of speech have changed but the speech of one person, the sharing of their ideas and passions continues to have an effect on people.  I wonder today that the art of speeches and their effect has lessened. I spend more time reading, less time listening to or reading the speeches of the leaders of today.&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Probably Approximately Correct by Leslie Valiant Part 1</title>
       <link>http://localhost:8080/articles/2015-01-30-pac/</link>
@@ -18,14 +48,14 @@
 &lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;I must say I love this book.  So many great ideas. &lt;/p&gt;
 &lt;p&gt;Humans and other creatures react to the world without having to understand how everything works.  You don’t have to understand the underlying theories of electro magnetism to use a computer, or the standard model in physics to get through your life successfully.&lt;/p&gt;
-&lt;p&gt;Worms can burrow through the ground without apparently any understanding fo the physical laws they are subject to. &lt;/p&gt;
-&lt;p&gt;Learning is done by concreate mechanisms that can be understood by the methods of computer science.&lt;/p&gt;
-&lt;p&gt;Ecorithims are algorithims that derive their power from learning from whatever environment they inhabit.&lt;/p&gt;
-&lt;p&gt;Ecorithims can be designed using conjuction and dejunctions (simple identifying statements that are stackable) you can identify and classify things as being positive or negative for the simulated organism.  Or you can identify and classify things as plants are animals depending on a rule set.  You have to have some examples to start with.  Hopefully these examples are randomly chosen then you need to establish your rules and then you need to be able to correct your rules when you find them being incorrect.&lt;/p&gt;
-&lt;p&gt;Humans have the code to generate 20,000 different protiens, then we have regulatory genes that control when those protiens are encoded and how often. Then there are environmental factors and epigenetics.  Lots of variables. &lt;/p&gt;
+&lt;p&gt;Worms can burrow through the ground without apparently any understanding for the physical laws they are subject to. &lt;/p&gt;
+&lt;p&gt;Learning is done by concrete mechanisms that can be understood by the methods of computer science.&lt;/p&gt;
+&lt;p&gt;Ecorithims are algorithms that derive their power from learning from whatever environment they inhabit.&lt;/p&gt;
+&lt;p&gt;Ecorithims can be designed using conjunction and de-junctions (simple identifying statements that are stackable) you can identify and classify things as being positive or negative for the simulated organism.  Or you can identify and classify things as plants are animals depending on a rule set.  You have to have some examples to start with.  Hopefully these examples are randomly chosen then you need to establish your rules and then you need to be able to correct your rules when you find them being incorrect.&lt;/p&gt;
+&lt;p&gt;Humans have the code to generate 20,000 different proteins, then we have regulatory genes that control when those proteins are encoded and how often. Then there are environmental factors and epigenetics.  Lots of variables. &lt;/p&gt;
 &lt;p&gt;Then there is the need for reasoning on top of that.&lt;/p&gt;
-&lt;p&gt;We don’t have the perfect algorithim yet, but we are getting closer.&lt;/p&gt;
-&lt;p&gt;Come back for part 2 when I take a closer look at some of the algorithims.&lt;/p&gt;
+&lt;p&gt;We don’t have the perfect algorithm yet, but we are getting closer.&lt;/p&gt;
+&lt;p&gt;Come back for part 2 when I take a closer look at some of the algorithms.&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -36,18 +66,18 @@
       <author></author>
       <description>&lt;p&gt;The world is changing in multiple ways. One interesting way is the extent of power that powerful people have and rapidly, especially in the last 30 years.&lt;/p&gt;
 &lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;He defines power as the ability to cause people to do somethin they would not normally do.&lt;/p&gt;
+&lt;p&gt;He defines power as the ability to cause people to do something they would not normally do.&lt;/p&gt;
 &lt;p&gt;Ways of exercising power include muscle (force), pitch (convincing), code (tradition), and reward.&lt;/p&gt;
 &lt;p&gt;Power is exercised in all facets of life from home to work to family. &lt;/p&gt;
 &lt;p&gt;With the definition of power out of the way and how it works he launches into a myriad of examples of how the old power structures are now weaker and more constrained then they were in the past.  Politics, religion, businesses are all effected by this.&lt;/p&gt;
-&lt;p&gt;For the past 20 years America has been the most powerful nation in the planet and has acted as a Hegemon.  This has created some amount of peace and stability but won’t last due to several factors.  The rise of the BRICS,  Brazil, Russia, China and South Africa.  &lt;/p&gt;
-&lt;p&gt;The effectiveness of cheaper military efforts.  For example the 9-11 attacks probably cost around 500k, America has spent almost 3 trillion dollar in retalition in the wars in Afghanastan and Iraq. &lt;/p&gt;
-&lt;p&gt;A 200 million dollar Israeli boat was almost sunk by a $60,000 cruise missle and of course the cheapness of IEDs, drones and the list goes on.  Technology has made things cheaper and more accessble for all types of people.&lt;/p&gt;
-&lt;p&gt;The power of the Catholic church is signifigantly waning in Latin America, many people are joining evangelical churches that server their need better.&lt;/p&gt;
+&lt;p&gt;For the past 20 years America has been the most powerful nation in the planet and has acted as a Hegemony.  This has created some amount of peace and stability but won’t last due to several factors.  The rise of the BRICS,  Brazil, Russia, China and South Africa.  &lt;/p&gt;
+&lt;p&gt;The effectiveness of cheaper military efforts.  For example the 9-11 attacks probably cost around 500k, America has spent almost 3 trillion dollar in retaliation in the wars in Afghanastan and Iraq. &lt;/p&gt;
+&lt;p&gt;A 200 million dollar Israeli boat was almost sunk by a $60,000 cruise missile and of course the cheapness of IEDs, drones and the list goes on.  Technology has made things cheaper and more accessible for all types of people.&lt;/p&gt;
+&lt;p&gt;The power of the Catholic church is significantly waning in Latin America, many people are joining evangelical churches that server their need better.&lt;/p&gt;
 &lt;p&gt;Corporate giants are being outplayed and out smarted by new and nimble startups. There has been a huge increase in the number of smaller charitable foundations allowing more control of where the money goes.&lt;/p&gt;
-&lt;p&gt;I liked being reminded that the world is changing and will continue to do so.  His question is what will it mean for security, for the future of our planet. It seems to be harder for Countries to agree to take action on big questions like climate change, north korea, Iran, pollution controls.  Will humans be better off with the powerful having less power?  He seems to think not and recommends we have more trust in our leaders and give them more power.&lt;/p&gt;
+&lt;p&gt;I liked being reminded that the world is changing and will continue to do so.  His question is what will it mean for security, for the future of our planet. It seems to be harder for Countries to agree to take action on big questions like climate change, north Korea, Iran, pollution controls.  Will humans be better off with the powerful having less power?  He seems to think not and recommends we have more trust in our leaders and give them more power.&lt;/p&gt;
 &lt;p&gt;I reject that idea because we can’t trust our leaders, see NSA, legalized torture, CIA and the list goes on. &lt;/p&gt;
-&lt;p&gt;I am impressed with what groups of like minded citizens and people have accomplished in the past.  From saving and creating national parks, the environmental movement, the civil rights movement.  These weren’t accomplished by established political leaders but by the people. Yes there is danger in radicals and violent criminals but we shouldn’t surrender more rights just to feel safer. The future is definately going to be interesting and  will be shaped by the ideas of more people then ever before.&lt;/p&gt;
+&lt;p&gt;I am impressed with what groups of like minded citizens and people have accomplished in the past.  From saving and creating national parks, the environmental movement, the civil rights movement.  These weren’t accomplished by established political leaders but by the people. Yes there is danger in radicals and violent criminals but we shouldn’t surrender more rights just to feel safer. The future is definitely going to be interesting and  will be shaped by the ideas of more people then ever before.&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -56,14 +86,14 @@
       <pubDate>Tue, 20 Jan 2015 16:00:00 -0800</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/normans/</guid>
       <author></author>
-      <description>&lt;p&gt;King Harold of England has his armies ready for the invasion rumored to come. But he can’t keep his armies in the field forever and as fall aproaches he disbands them and they prepare for winter.  Then news arives the Viking King Hadrada had invaded with Harold’s estranged brother and had taken the city of York.&lt;/p&gt;
+      <description>&lt;p&gt;King Harold of England has his armies ready for the invasion rumored to come. But he can’t keep his armies in the field forever and as fall approaches he disbands them and they prepare for winter.  Then news arrives the Viking King Hadrad had invaded with Harold’s estranged brother and had taken the city of York.&lt;/p&gt;
 &lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;York has agreed to give hostages to the vikings at a nearby bridge. So the vikings return to their ships and at the apointed time arrive to recieve the hostages. To their suprise they are met with an army instead.&lt;/p&gt;
+&lt;p&gt;York has agreed to give hostages to the vikings at a nearby bridge. So the vikings return to their ships and at the appointed time arrive to receive the hostages. To their surprise they are met with an army instead.&lt;/p&gt;
 &lt;p&gt;King Harold had covered 185 miles in four days with his army and was able to fend of the viking attack. The victory was short lived news came that the Duke of Normandy from France was invading London.  Harold rushed his army back but was defeated and killed.&lt;/p&gt;
-&lt;p&gt;So a Norman became ruler of Britian as well as the most powerfull leader in France.&lt;/p&gt;
-&lt;p&gt;The book tells of their rise and fall and rise and fall.  The normans created a kingdom in Siciliy and southern Italy and had a huge impact on Europe during their reigns.&lt;/p&gt;
+&lt;p&gt;So a Norman became ruler of Britain as well as the most powerful leader in France.&lt;/p&gt;
+&lt;p&gt;The book tells of their rise and fall and rise and fall.  The Normans created a kingdom in Sicily and southern Italy and had a huge impact on Europe during their reigns.&lt;/p&gt;
 &lt;p&gt;I was struck with the futility of these men. They fought, they killed then died and left nothing permanent or prosperous in their wake. Well maybe some did but it didn’t last very long.  &lt;/p&gt;
-&lt;p&gt;It was a violent time to live. It makes me grateful for the rule of law ideas that come down from the anglo saxons and their Magna Carta.  &lt;/p&gt;
+&lt;p&gt;It was a violent time to live. It makes me grateful for the rule of law ideas that come down from the Anglo Saxons and their Magna Carta.  &lt;/p&gt;
 &lt;p&gt;All in all it was rather depressing to listen to the terrible things humans have done to each other for power and greed. &lt;/p&gt;
 </description>
     </item>
@@ -79,30 +109,30 @@
 &lt;/blockquote&gt;
 &lt;p&gt;Science, art, teamwork and good execution end up changing the world.&lt;/p&gt;
 &lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;He begins with Charles Babbage and Ada Lovelace and peppers stories of lives and critcal inventions from then to today.  What touched me most about this book was the effect humans can have on the world. By creating something truly amazing and grand these individuals working together on a national,  company, and small clubs have changed everything.&lt;/p&gt;
+&lt;p&gt;He begins with Charles Babbage and Ada Lovelace and peppers stories of lives and critical inventions from then to today.  What touched me most about this book was the effect humans can have on the world. By creating something truly amazing and grand these individuals working together on a national,  company, and small clubs have changed everything.&lt;/p&gt;
 &lt;p&gt;Although Ada’s personal story was tragic, she never met her father and died at the age of 36 her idea to be able to program a machine to perform different tasks was eventually accomplished. Again and again we read in the book of an invention, and idea that changed the world.  ALthough he does share examples of lone inventors who were never able to execute properly and so their ideas while good did not change anything.&lt;/p&gt;
 &lt;p&gt;George Boole created the language where logic could be easily expressed. &lt;/p&gt;
-&lt;p&gt;The ENIAC used mechanical gates to create logic ciruits, then along came the vacum tube then with the transistor everythin was different.&lt;/p&gt;
+&lt;p&gt;The ENIAC used mechanical gates to create logic circuits, then along came the vacuum tube then with the transistor everything was different.&lt;/p&gt;
 &lt;p&gt;Oxide layers between the silicon allowed for laying down paths to create the logic gates.&lt;/p&gt;
-&lt;p&gt;Joyhny Von Neuman was quite the character a true genius who helped create atomic weapons eventually dying of cacner.&lt;/p&gt;
+&lt;p&gt;Johny Von Neuman was quite the character a true genius who helped create atomic weapons eventually dying of cancer.&lt;/p&gt;
 &lt;p&gt;Some other favorite quotes: &lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;War mobilizes science.&lt;/p&gt;
-&lt;p&gt;Understand which industries are symbiotic so that you can capitalize on how they will spur eachother on.&lt;/p&gt;
+&lt;p&gt;Understand which industries are symbiotic so that you can capitalize on how they will spur each other on.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Arthur Rock:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;“I belive so strongly in people that I think talking to the individual is much more important than finding out to much about what they want to do”&lt;/p&gt;
+&lt;p&gt;“I believe so strongly in people that I think talking to the individual is much more important than finding out to much about what they want to do”&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Vannevar Bush:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;“Basic research leads to new knowledge. It provides scientific capital. It creast the fund from which the practical applications of knowledge must be drawn”&lt;/p&gt;
+&lt;p&gt;“Basic research leads to new knowledge. It provides scientific capital. It creates the fund from which the practical applications of knowledge must be drawn”&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Another theme of the book:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;“Once again the greatest innovation would come not from the people who created the breakthrough but from the people who applied them usefully”&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;The stories in the book were great. Human beings pushing the frontiers of science and knowledge creating the future today.  And it is really exciting. Just today Microsoft annoucned their augmented reality glasses. I can’t wait to try them to see what I can create with them.&lt;/p&gt;
+&lt;p&gt;The stories in the book were great. Human beings pushing the frontiers of science and knowledge creating the future today.  And it is really exciting. Just today Microsoft announced their augmented reality glasses. I can’t wait to try them to see what I can create with them.&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -113,14 +143,14 @@
       <author></author>
       <description>&lt;p&gt;Playwright, poet, letter writer, lover, a founder of the enlightnment and a business man.  Voltaire lived a full life and what a life it was.  Reading about it was fun.&lt;/p&gt;
 &lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;I found this book to be very informative and interesting.  More full exceprts from his works would have been appreciated but at 460 pages of text not including notes and the bibliography I guess it was long enough.&lt;/p&gt;
-&lt;p&gt;Voltaire constantly had to be afraid for his life and property because of what he wrote and where he lived.  He was sentenced to the bastille while young and then had to live in exile for man years.  He lived in England and was impressed by the freedoms people enjoyed there, although he hated Shakespeare and described his plays as vulgar. &lt;/p&gt;
-&lt;p&gt;He wrote and wrote and wrote, some plays were popular, some flopped but he was able to become extremely wealthy and he certainly enjoyed his wealth.  He had his mistresses.  He shared 18 years of his life with Emile. She translated Isaac Newtons Principia into french and her book was used into the 1800’s.  Her husband was not bothered at all by the liason.  Although they were practically seperated when she died shortly after giving birth to another mans child Voltaire was devastated by the death.&lt;/p&gt;
-&lt;p&gt;He next mistress was his niece. Voltaire was constatnly under pressure by the aristocrats and the Church.  He spent years as an official in the prussian court with King Frederick.  Voltaire was an intellectual celebrity. He wrote over 20,000 letters in his lifetime and really was an important part of those who began the enlightment of europe.&lt;/p&gt;
+&lt;p&gt;I found this book to be very informative and interesting.  More full excerpts from his works would have been appreciated but at 460 pages of text not including notes and the bibliography I guess it was long enough.&lt;/p&gt;
+&lt;p&gt;Voltaire constantly had to be afraid for his life and property because of what he wrote and where he lived.  He was sentenced to the Bastille while young and then had to live in exile for man years.  He lived in England and was impressed by the freedoms people enjoyed there, although he hated Shakespeare and described his plays as vulgar. &lt;/p&gt;
+&lt;p&gt;He wrote and wrote and wrote, some plays were popular, some flopped but he was able to become extremely wealthy and he certainly enjoyed his wealth.  He had his mistresses.  He shared 18 years of his life with Emile. She translated Isaac Newtons Principia into French and her book was used into the 1800’s.  Her husband was not bothered at all by the liaison.  Although they were practically separated when she died shortly after giving birth to another mans child Voltaire was devastated by the death.&lt;/p&gt;
+&lt;p&gt;He next mistress was his niece. Voltaire was constantly under pressure by the aristocrats and the Church.  He spent years as an official in the Prussian court with King Frederick.  Voltaire was an intellectual celebrity. He wrote over 20,000 letters in his lifetime and really was an important part of those who began the enlightenment of Europe.&lt;/p&gt;
 &lt;p&gt;He had an adopted daughter who he adored. &lt;/p&gt;
-&lt;p&gt;Eventually setup shop in Ferney. He slowly upgraded the chateau and it eventually became a prosperous town.  At 65 he was researching russian history for his next book, writing and acting in plays, writing the Dictionary of Philosophy which was to have a huge effect on the world.&lt;/p&gt;
+&lt;p&gt;Eventually setup shop in Ferney. He slowly upgraded the chateaus and it eventually became a prosperous town.  At 65 he was researching Russian history for his next book, writing and acting in plays, writing the Dictionary of Philosophy which was to have a huge effect on the world.&lt;/p&gt;
 &lt;p&gt;He was very happy at Ferny saying, “I am quite amazed to find that I have been happy here for the past five years. I have made a little sovereign state for myself … I have done everything I have wanted. It is good that there should be people like me in this world. But to play this role one must be old, rich, free, bold and in good standing at court, but without ever going there.”&lt;/p&gt;
-&lt;p&gt;While in Ferney he was campaigning against the ‘infâme” (abuses by royalty and clergy around him).  He took up cases and publicized and fought for the rights of the common man.  Some really sad stories about abuses of power and torture and wrongly killed people.  One thing he said was “What horror is this a secret judgement, a condemnation without explanations! Is there a more execrable tyranny that that of spilling blood on a whim, without giving the least reason.”  He fought agains that and he wound up making a difference.&lt;/p&gt;
+&lt;p&gt;While in Ferney he was campaigning against the ‘infâme” (abuses by royalty and clergy around him).  He took up cases and publicized and fought for the rights of the common man.  Some really sad stories about abuses of power and torture and wrongly killed people.  One thing he said was “What horror is this a secret judgment, a condemnation without explanations! Is there a more execrable tyranny that that of spilling blood on a whim, without giving the least reason.”  He fought against that and he wound up making a difference.&lt;/p&gt;
 &lt;p&gt;At the age of 76 he got into the watch making business and setup shop for artisans who had been forced out of Geneva due to their religion.&lt;/p&gt;
 &lt;p&gt;He died in 1778 in Paris.&lt;/p&gt;
 &lt;p&gt;He lived, loved and didn’t just pass through life. He left his mark on the world.&lt;/p&gt;
@@ -135,7 +165,7 @@
       <description>&lt;p&gt;Gain a sharper focus, more patience and more appreciation for this moment in your life through the practice of Meditation. Learning to mediate isn’t hard.&lt;/p&gt;
 &lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Get a timer, find a place to sit, straighten your back, close your eyes, breathe in an out, focus on the moment and let your meditation begin.&lt;/p&gt;
-&lt;p&gt;You can sit back and watch your concsious stream of thought flow. Kindly remind it to come back to the present moment. Watching and focusing on where you feel your breath coming in and out can help. The point where you feel it is referred to the anchor point. Come back to it as often as you need.&lt;/p&gt;
+&lt;p&gt;You can sit back and watch your conscious stream of thought flow. Kindly remind it to come back to the present moment. Watching and focusing on where you feel your breath coming in and out can help. The point where you feel it is referred to the anchor point. Come back to it as often as you need.&lt;/p&gt;
 &lt;p&gt;The first week he recommends you focus on your breath.  &lt;/p&gt;
 &lt;p&gt;The second week focus on the sounds around you, just listening to them rise and fall.&lt;/p&gt;
 &lt;p&gt;The third week pay attention to your body.  A part or place on it may ‘light up’. Sit back and observe.&lt;/p&gt;
@@ -155,7 +185,7 @@
       <author></author>
       <description>&lt;p&gt;The Bank of International Settlements. A bank that keeps the money flowing in times of peace and war. Loyal to neutrality the bank serviced Nazi Germany and helped enable their war effort and economy.&lt;/p&gt;
 &lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;The bank was first created to handle the german reperations for world war one. It’s charter allowed for it to be neutral although supported by the central banks of Germany, London and others.  During world war 2 the BIS allowed the Nazi’s to sell and transfer their looted gold from Czechoslovak accounts to their own.  This continued throughout the war with gold looted from the Jews and others.&lt;/p&gt;
+&lt;p&gt;The bank was first created to handle the German reparations for world war one. It’s charter allowed for it to be neutral although supported by the central banks of Germany, London and others.  During world war 2 the BIS allowed the Nazi’s to sell and transfer their looted gold from Czechoslovak accounts to their own.  This continued throughout the war with gold looted from the Jews and others.&lt;/p&gt;
 &lt;p&gt;After the war the BIS survived and played a pivotal role in creating the Euro.  Today the BIS exists as the bank for central banks. Allowing international money to flow easily between nations and their banks.&lt;/p&gt;
 &lt;p&gt;Adam brings up some great points.  The bank in its past considered procedure more important then doing the right thing. It makes me wonder if the bank is still following that same policy today.&lt;/p&gt;
 </description>
@@ -166,15 +196,15 @@
       <pubDate>Tue, 23 Dec 2014 16:00:00 -0800</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/john-muir-wilderness-books/</guid>
       <author></author>
-      <description>&lt;p&gt;A rowdy scottish kid brought up by a puritan father. An inventor of clocks and a few other things. A hiker before hiking was a thing. Walking to the gulf, visiting Cuba and then making his way to California.  The man lived a full life.&lt;/p&gt;
+      <description>&lt;p&gt;A rowdy Scottish kid brought up by a puritan father. An inventor of clocks and a few other things. A hiker before hiking was a thing. Walking to the gulf, visiting Cuba and then making his way to California.  The man lived a full life.&lt;/p&gt;
 &lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;What a gulf seperates multiple generations and families. He was in Scotland until the age of 11 and was put to hard work and schooling.  Learning latin and memorizing swaths of the bible. The punishment for misdeeds was violent and physical and the expectations were high.&lt;/p&gt;
+&lt;p&gt;What a gulf separates multiple generations and families. He was in Scotland until the age of 11 and was put to hard work and schooling.  Learning Latin and memorizing swaths of the bible. The punishment for misdeeds was violent and physical and the expectations were high.&lt;/p&gt;
 &lt;p&gt;It is fun reading his memories of his youth.  He writes of the strictness of his parents, the habits of the animals around him. He recognized the human emotions in the animals around him, from the pig that lost a piglet to the favored horse Jack who helped herd the cows and was part of the family.&lt;/p&gt;
-&lt;p&gt;He wasn’t a saint, apparently fighting was an important part of growing up scottish and daring eachother to perform acts of bravery.&lt;/p&gt;
-&lt;p&gt;Moving to wisconsin introduced him to a whole new set of wildlife and land to explore.  He wrote of the long 16 to 18 hour days of work on the farm and how he learned to swim. He liked to stay up as late as he could to read but his father was always quickly sending him to bed, but when his dad said he could get up as early as he wanted he proceeded to get up at 1:00am and began to use his time inventing wooden alarm clocks and making thermometers, barometers and becoming quite an inventor.&lt;/p&gt;
-&lt;p&gt;Taking these creationgs to the state fair eventually led to him getting into the local University and then his long walks began.  He called himself a botanist and love to study and identify all the plants on his walks.&lt;/p&gt;
+&lt;p&gt;He wasn’t a saint, apparently fighting was an important part of growing up Scottish and daring each other to perform acts of bravery.&lt;/p&gt;
+&lt;p&gt;Moving to Wisconsin introduced him to a whole new set of wildlife and land to explore.  He wrote of the long 16 to 18 hour days of work on the farm and how he learned to swim. He liked to stay up as late as he could to read but his father was always quickly sending him to bed, but when his dad said he could get up as early as he wanted he proceeded to get up at 1:00 am and began to use his time inventing wooden alarm clocks and making thermometers, barometers and becoming quite an inventor.&lt;/p&gt;
+&lt;p&gt;Taking these creations to the state fair eventually led to him getting into the local University and then his long walks began.  He called himself a botanist and love to study and identify all the plants on his walks.&lt;/p&gt;
 &lt;p&gt;The daily entries can be rather dull, so I skipped over large portions of the books, but you do find some interesting passages.  I find I much more enjoy hiking in the Sierra’s then reading John Muir’s descriptions. &lt;/p&gt;
-&lt;p&gt;I definately agree with his statement:&lt;/p&gt;
+&lt;p&gt;I definitely agree with his statement:&lt;/p&gt;
 &lt;p&gt;“… people are beginning to find out that going to the mountains is going home”&lt;/p&gt;
 &lt;p&gt;The mountains and trails is where I find a great amount of peace and comfort.&lt;/p&gt;
 &lt;p&gt;So thank you Mr. Muir for working so tirelessly to preserve it for us and our children.  &lt;/p&gt;
@@ -186,18 +216,18 @@
       <pubDate>Sat, 20 Dec 2014 16:00:00 -0800</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/story-of-philosopy/</guid>
       <author></author>
-      <description>&lt;p&gt;I discovered a fantastic book a few weeks ago.  I was browsing the library in the topic of history and found Will Durants, Story of Philosophy.  I thought it might be boring but I would give it a try. I am glad I did.  &lt;/p&gt;
+      <description>&lt;p&gt;I discovered a fantastic book a few weeks ago.  I was browsing the library in the topic of history and found Will Durant’s, Story of Philosophy.  I thought it might be boring but I would give it a try. I am glad I did.  &lt;/p&gt;
 &lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;The book has been entertaing, educating and a great glimpse into the minds of some interesting humans. I was suprised to find out, after I had listend to half of it, that the book was published in the year 1926.  The Story of Philosophy became a best seller and then he and his wife then went on to write their huge work the Story of Civilization at nearly 10,000 pages. Sadly even at that length it was unfished due them dieing of old age in the 1980’s. They only made it to the age of Napoleon. Turns out the author himself was a rather fascinating person. You should definetly checkout his &lt;a href=&quot;http://en.wikipedia.org/wiki/Will_Durant&quot;&gt;wikipedia page&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Anyways back to his book. It is a quick survey of people who have influenced and created philosophy. I loved the historical bits.  In fact I think I enjoyed learning more about the philosphers lives then about the philosphers philosophies.&lt;/p&gt;
+&lt;p&gt;The book has been entertaining, educating and a great glimpse into the minds of some interesting humans. I was surprised to find out, after I had listened to half of it, that the book was published in the year 1926.  The Story of Philosophy became a best seller and then he and his wife then went on to write their huge work the Story of Civilization at nearly 10,000 pages. Sadly even at that length it was unfinished due them dieing of old age in the 1980’s. They only made it to the age of Napoleon. Turns out the author himself was a rather fascinating person. You should definitely checkout his &lt;a href=&quot;http://en.wikipedia.org/wiki/Will_Durant&quot;&gt;wikipedia page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Anyways back to his book. It is a quick survey of people who have influenced and created philosophy. I loved the historical bits.  In fact I think I enjoyed learning more about the philosophers lives then about the philosophers philosophies.&lt;/p&gt;
 &lt;p&gt;He started of course with Socrates.  The man who was influencing a younger generation of people to ruin and was then condemned to death for his questions.  He loved to answer questions with more questions.&lt;/p&gt;
 &lt;p&gt;Then his pupal Plato. This is the first time I have actually listened to Plato’s Republic. I had checked it out of the library years ago but never got past the introduction. I enjoyed listening to the ideas for a perfect society and a perfect rule of law.  The idea of leaders who over decades had been weeded out from the masses down to the smartest and the best before they were given the chance to rule and decide the fate of a nation seems like a good one.&lt;/p&gt;
-&lt;p&gt;And then on to Aristotle.  Apparently the man got a lot of things wrong.  For example he held to the idea that women had less teeth and less ribs and that the planet was the center of the Universe even though Thales, Anaxagores and others had proposed that the Sun was at the center and the earth revolved around it.  Aristotle spent alot of time catalouging learning and helped the beginings of science, or maybe he held back science for so long because people trusted him so much.&lt;/p&gt;
-&lt;p&gt;Francis Bacon, the politician philospher.  He spent his adult life furthering the rule of England and in his spare time creating and writing philosophies that would sound through the ages. &lt;/p&gt;
-&lt;p&gt;Then Spinoza, the excommunicated jew who almost no one knew changed the foundation of philosphy until his work was published posthumously. &lt;/p&gt;
+&lt;p&gt;And then on to Aristotle.  Apparently the man got a lot of things wrong.  For example he held to the idea that women had less teeth and less ribs and that the planet was the center of the Universe even though Thales, Anaxagores and others had proposed that the Sun was at the center and the earth revolved around it.  Aristotle spent a lot of time cataloging learning and helped the beginnings of science, or maybe he held back science for so long because people trusted him so much.&lt;/p&gt;
+&lt;p&gt;Francis Bacon, the politician philosopher.  He spent his adult life furthering the rule of England and in his spare time creating and writing philosophies that would sound through the ages. &lt;/p&gt;
+&lt;p&gt;Then Spinoza, the excommunicated Jew who almost no one knew changed the foundation of philosophy until his work was published posthumously. &lt;/p&gt;
 &lt;p&gt;Voltaire, -  Let me just say you should get and read or listen to the book just for this chapter. What an interesting person.  I went to the library and got an entire book to read about him. &lt;/p&gt;
-&lt;p&gt;And the list goes on, Kant, SchopenHauer, Herbet Spenver, Nietzsche, European philosophers, American philosphers.&lt;/p&gt;
-&lt;p&gt;This is the first book on philosophy I think I am actually going to finish. 88 Years after he published it Mr Durants book is still introducing some philosophy to people like me. &lt;/p&gt;
+&lt;p&gt;And the list goes on, Kant, SchopenHauer, Herbet Spencer, Nietzsche, European philosophers, American philosophers.&lt;/p&gt;
+&lt;p&gt;This is the first book on philosophy I think I am actually going to finish. 88 Years after he published it Mr Durant’s book is still introducing some philosophy to people like me. &lt;/p&gt;
 </description>
     </item>
     <item>

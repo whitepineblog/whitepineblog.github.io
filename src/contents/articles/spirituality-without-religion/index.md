@@ -30,6 +30,6 @@ The sense that we are unified subjects is a fiction.
 
 The goal of meditation is to uncover a form of well being that is inherent to the nature of our minds.
 
-Meditation doesn’t entail suppression of thoughts but it requires that we notice thoughts as they emerge and recognize them to be transitory appearances in consciousness. 
+Meditation doesn't entail suppression of thoughts but it requires that we notice thoughts as they emerge and recognize them to be transitory appearances in consciousness. 
 
 I don’t have to believe in a higher power or being to benefit from meditation and training my mind.

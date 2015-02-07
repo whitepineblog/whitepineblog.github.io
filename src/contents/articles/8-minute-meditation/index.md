@@ -11,7 +11,7 @@ Gain a sharper focus, more patience and more appreciation for this moment in you
 
 Get a timer, find a place to sit, straighten your back, close your eyes, breathe in an out, focus on the moment and let your meditation begin.
 
-You can sit back and watch your concsious stream of thought flow. Kindly remind it to come back to the present moment. Watching and focusing on where you feel your breath coming in and out can help. The point where you feel it is referred to the anchor point. Come back to it as often as you need.
+You can sit back and watch your conscious stream of thought flow. Kindly remind it to come back to the present moment. Watching and focusing on where you feel your breath coming in and out can help. The point where you feel it is referred to the anchor point. Come back to it as often as you need.
 
 The first week he recommends you focus on your breath.  
 

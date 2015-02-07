@@ -9,7 +9,7 @@ The Bank of International Settlements. A bank that keeps the money flowing in ti
 
 <span class="more"></span>
 
-The bank was first created to handle the german reperations for world war one. It's charter allowed for it to be neutral although supported by the central banks of Germany, London and others.  During world war 2 the BIS allowed the Nazi's to sell and transfer their looted gold from Czechoslovak accounts to their own.  This continued throughout the war with gold looted from the Jews and others.
+The bank was first created to handle the German reparations for world war one. It's charter allowed for it to be neutral although supported by the central banks of Germany, London and others.  During world war 2 the BIS allowed the Nazi's to sell and transfer their looted gold from Czechoslovak accounts to their own.  This continued throughout the war with gold looted from the Jews and others.
 
 After the war the BIS survived and played a pivotal role in creating the Euro.  Today the BIS exists as the bank for central banks. Allowing international money to flow easily between nations and their banks.
 

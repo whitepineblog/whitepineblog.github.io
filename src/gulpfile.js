@@ -40,7 +40,7 @@ gulp.task('lr-server', function() {
 // Helper task - Tells Livereload to refresh
 //
 gulp.task('refresh-browser', function() {
-    gulp.src('config.json', {read: false})
+    gulp.src('config.json', {read: true})
         .pipe(refresh(server));
 });
 
