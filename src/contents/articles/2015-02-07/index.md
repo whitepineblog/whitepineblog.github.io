@@ -15,6 +15,6 @@ Pericles who held power for more then 30 years and created a marvelous peace.  I
 
 Rome sure had interesting time of it. Good rulers and bad, from republic to empire.
 
-Reading of Raphael and Michelangelo and there creations. Leonardo Davinci the epitome of the Renaissance. 
+Reading of Raphael and Michelangelo and there creations. Leonardo Da Vinci the epitome of the Renaissance. 
 
-The reformation was quite the event.  Individuals are powerful and can change the course of history in unexpected ways. I wonder what the sort history of civilization will focus on 5,000 years from now. What sort of mention will my era get?
+The reformation was quite the event.  Individuals are powerful and can change the course of history in unexpected ways. I wonder what the short history of civilization will focus on 5,000 years from now. What sort of mention will my era get?
