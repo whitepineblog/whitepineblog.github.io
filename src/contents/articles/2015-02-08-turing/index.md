@@ -5,7 +5,7 @@ date: 2015-2-08
 template: article.jade 
 ---
 
-Alan Turing, the mathematician who thought of the the universal machine.  One that could be made and programmed to do a variety of tasks and then one day even be able to think.
+Alan Turing, the mathematician who thought of the universal machine.  One that could be made and programmed to do a variety of tasks and then one day even be able to think.
 
 <span class="more"></span>
 
