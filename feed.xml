@@ -5,9 +5,27 @@
     <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://localhost:8080</link>
     <description></description>
-    <pubDate>Sat, 07 Feb 2015 16:00:00 -0800</pubDate>
+    <pubDate>Sun, 08 Feb 2015 16:00:00 -0800</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>Spinoza A Life by Steven Nadler</title>
+      <link>http://localhost:8080/articles/2015-02-09-Spinoza/</link>
+      <pubDate>Sun, 08 Feb 2015 16:00:00 -0800</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/2015-02-09-Spinoza/</guid>
+      <author></author>
+      <description>&lt;p&gt;His people were rejected from Spain and came to Amsterdam and were finally able to practice the Jewish religion openly.  Spinoza in turn was excommunicated from his people because of his ideas.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;He questioned the immortality of the soul and according to the official record was excommunicated for his evil opinions and acts. &lt;/p&gt;
+&lt;p&gt;His father was married 3 times and widowed three times. Spinoza was trained in Hebrew but eventually learned Latin from the tutor Van den Enden.  This gave him access to Decartes and the other original thinkers of the day.&lt;/p&gt;
+&lt;p&gt;The true good is the love of something eternal and immutable. What this true good consists in is having a certain ‘nature,’ being in a certain condition that is natural for a human being and that represents the perfection of human nature. &lt;/p&gt;
+&lt;p&gt;Our perfection consists in having a kind of knowledge.  The comprehension of our place in nature.&lt;/p&gt;
+&lt;p&gt;The human being does not stand outside of Nature, but is an intimate and inextricable part of it, subject to all its laws. When one sees the way in which this is so, and strives so that others may see it too, then one has achieved the good for a human being, “the highest human perfection.”&lt;/p&gt;
+&lt;p&gt;He moved to Rijnsburg and became a lens grinder making lenses for telescopes it was quiet, lonely and intense job in those days.  While there he writes his most famous works.  His goal is the complete desacrilization and naturalization of religion and its contents.&lt;/p&gt;
+&lt;p&gt;Spinoza denies that Moses wrote all or even most of the Torah.  The evidence shows that they were in fact written by someone who lived many generations after Moses.&lt;/p&gt;
+&lt;p&gt;Knowledge of nature must be sought from nature alone.&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>The Man Who Knew To Much by David Leavitt</title>
       <link>http://localhost:8080/articles/2015-02-08-turing/</link>
