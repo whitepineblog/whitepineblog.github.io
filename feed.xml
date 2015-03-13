@@ -5,14 +5,77 @@
     <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://localhost:8080</link>
     <description></description>
-    <pubDate>Thu, 26 Feb 2015 16:00:00 -0800</pubDate>
+    <pubDate>Wed, 11 Mar 2015 17:00:00 -0700</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
     <item>
-      <title>Faraday, Maxwell and the Electromagnetic Field by Nancy Forbes and Basil Mahon</title>
-      <link>http://localhost:8080/articles/2015-02-27-Farady/</link>
+      <title>Empire and Gold</title>
+      <link>http://localhost:8080/articles/2015-03-12-Empire-Gold/</link>
+      <pubDate>Wed, 11 Mar 2015 17:00:00 -0700</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/2015-03-12-Empire-Gold/</guid>
+      <author></author>
+      <description>&lt;p&gt;Gold and Money, the South Sea Bubble, Mississippi Company, Tulip futures, Real estate bubbles and the list goes one with the ups and downs of currency. &lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Humans have created bubbles of wealth for as long as money has been around. The practice of creating new currencies, devaluing old ones, attaching it to gold, detaching from gold and going to just straight paper.&lt;/p&gt;
+&lt;p&gt;The revolution paper money called continentals were a paper currency and became nearly worthless due to oversupply.  The US constitution pegged the money supply to gold.  The British had a long history of a gold standard and then leaving the standard to raise money to pay for wars. Then going back to the gold standard, then leaving it.&lt;/p&gt;
+&lt;p&gt;A pattern arises, with the Vietnam war, and other wars throughout history increases government spending and creates large amounts of government debts. &lt;/p&gt;
+&lt;p&gt;I am very interested to know how the US is going to solve it’s debt problems of today. &lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>The Pleasure of Finding Things Out Richard Feynman</title>
+      <link>http://localhost:8080/articles/2015-03-11/</link>
+      <pubDate>Tue, 10 Mar 2015 17:00:00 -0700</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/2015-03-11/</guid>
+      <author></author>
+      <description>&lt;p&gt;Understanding the world around you. Asking useful questions. Being an intelligent human being. Some of the concepts you can find in this collection of short works.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Helped create the atomic bomb, rubbed shoulders with some of the brightest men of his age, received the Nobel Prize for some of his works, but my favorite part were the stories about his dad.&lt;/p&gt;
+&lt;p&gt;His dad made uniforms for a living, but through his long walks in the woods and asking his sun to explain and understand how things really work he exposed him to the ideas of science.&lt;/p&gt;
+&lt;p&gt;What an interesting life Feynman lived.  His first wife died of TB while he was at Los Alamos, he learned to pick locks and he loved to talk Physics with anyone.  &lt;/p&gt;
+&lt;p&gt;He wonders at the importance of clubs, and why would you want to be a member of a club that spends most it’s time deciding who gets to be in the club.&lt;/p&gt;
+&lt;p&gt;He spoke of pseudo science and the differences between real science. I enjoyed his speech on how we can miniaturize information, motors, machines and what that would look like.  Very visionary.&lt;/p&gt;
+&lt;p&gt;Do we live in a scientific world when every newspaper still prints a horoscope section? &lt;/p&gt;
+&lt;p&gt;It is important that we test statements and ideas and pronouncements with useful tests, involving control groups and recreating tests to see if we get the same data.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Sapiens a Brief history of Humankind by Yuval Harari</title>
+      <link>http://localhost:8080/articles/2015-03-02-HomoSapiens/</link>
+      <pubDate>Sun, 01 Mar 2015 16:00:00 -0800</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/2015-03-02-HomoSapiens/</guid>
+      <author></author>
+      <description>&lt;p&gt;The species that has come to dominate planet earth.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;There used to be multiple species of humans on the planet.  Neanderthals died out 50,000 years ago and several other species co existed with Homo Sapien Sapiens.  Homo Ergastor had survived for around 2 million years.  Quite a feat in the history of species.&lt;/p&gt;
+&lt;p&gt;Around 100,000 years ago the modern human came on the scene. Out of Africa and across the planet. Wherever he went massive changes were wrought.  Australia, the large flightless birds and giant marsupials went extinct.  When they made it to North and South America 50 of the 60 large mammal species went extinct as well.&lt;/p&gt;
+&lt;p&gt;The agricultural revolution was certainly a step backwards for most individuals, more hours of work, less diversified food sources, malnutrition and a lower quality of life. It didn’t happen all at once but over time the hunter gatherers created permanent settlements and turned to the plow.&lt;/p&gt;
+&lt;p&gt;Humans have the ability to imagine, to create a myth and believe in its reality. The idea of gods, states and corporations.  Things that only exist in the realm of the mind. People will sacrifice their lives for an idea, they will spend their lives working for an idea.&lt;/p&gt;
+&lt;p&gt;What Will the future hold for humanity. Will the singularity happen?  Will we create a new species of humans with genetic engineering? Humans have changed the planet more then any other species before them. The possibilities for what they create in the future are endless.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Autobiography of Andrew Carnegie</title>
+      <link>http://localhost:8080/articles/2015-02-27-Carnagie/</link>
       <pubDate>Thu, 26 Feb 2015 16:00:00 -0800</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/2015-02-27-Farady/</guid>
+      <guid isPermaLink="true">http://localhost:8080/articles/2015-02-27-Carnagie/</guid>
+      <author></author>
+      <description>&lt;p&gt;Andrew Carnegie, a poor Irish kid who set the pattern for modern philanthropy.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;His father was a weaver which was deprecated by manufactured goods. His mom worked to make ends meet and eventually they moved to America.&lt;/p&gt;
+&lt;p&gt;His first job was as a messenger boy and then a telegraph operator. He was particularly good at deciphering or guessing words that didn’t come completely through.&lt;/p&gt;
+&lt;p&gt;His first opportunity to buy a stock that gave dividends was well remembered.  When the first dividend check came he was quite impressed with that way of earning money.&lt;/p&gt;
+&lt;p&gt;Buying, selling, merging, and creating companies his years of creating a fortune went by quickly. He emphasized the importance of becoming a specialist in one area to become an expert. A man has only so much time in his life, so if you can understand one are well then you can make a difference in that area. &lt;/p&gt;
+&lt;p&gt;Then he began giving his money away. He created foundations, libraries, trusts.  He ended up giving away 90% of his money before he died.&lt;/p&gt;
+&lt;p&gt;He tried to prevent world war 1 and was deeply troubled that it hadn’t been prevented.&lt;/p&gt;
+&lt;p&gt;He ended up being one of the richest men in the history of the world. And he set a great example of what to do with that wealth.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Faraday, Maxwell and the Electromagnetic Field by Nancy Forbes and Basil Mahon</title>
+      <link>http://localhost:8080/articles/2015-02-26-Farady/</link>
+      <pubDate>Wed, 25 Feb 2015 16:00:00 -0800</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/2015-02-26-Farady/</guid>
       <author></author>
       <description>&lt;p&gt;Experimenter and mathematician Faraday discovered properties of magnetic fields and among one of the many things Maxwell did he modeled these properties in mathematics. &lt;/p&gt;
 &lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
@@ -150,23 +213,6 @@ The author said he started asking the question at 16, what it would look like if
 </description>
     </item>
     <item>
-      <title>The Normans From Raiders to Kings by Lars Brownworth</title>
-      <link>http://localhost:8080/articles/normans/</link>
-      <pubDate>Tue, 20 Jan 2015 16:00:00 -0800</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/normans/</guid>
-      <author></author>
-      <description>&lt;p&gt;King Harold of England has his armies ready for the invasion rumored to come. But he can’t keep his armies in the field forever and as fall approaches he disbands them and they prepare for winter.  Then news arrives the Viking King Hadrad had invaded with Harold’s estranged brother and had taken the city of York.&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;York has agreed to give hostages to the vikings at a nearby bridge. So the vikings return to their ships and at the appointed time arrive to receive the hostages. To their surprise they are met with an army instead.&lt;/p&gt;
-&lt;p&gt;King Harold had covered 185 miles in four days with his army and was able to fend of the viking attack. The victory was short lived news came that the Duke of Normandy from France was invading London.  Harold rushed his army back but was defeated and killed.&lt;/p&gt;
-&lt;p&gt;So a Norman became ruler of Britain as well as the most powerful leader in France.&lt;/p&gt;
-&lt;p&gt;The book tells of their rise and fall and rise and fall.  The Normans created a kingdom in Sicily and southern Italy and had a huge impact on Europe during their reigns.&lt;/p&gt;
-&lt;p&gt;I was struck with the futility of these men. They fought, they killed then died and left nothing permanent or prosperous in their wake. Well maybe some did but it didn’t last very long.  &lt;/p&gt;
-&lt;p&gt;It was a violent time to live. It makes me grateful for the rule of law ideas that come down from the Anglo Saxons and their Magna Carta.  &lt;/p&gt;
-&lt;p&gt;All in all it was rather depressing to listen to the terrible things humans have done to each other for power and greed. &lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>The Innovators by Walter Isaacson</title>
       <link>http://localhost:8080/articles/innovators/</link>
       <pubDate>Tue, 20 Jan 2015 16:00:00 -0800</pubDate>
@@ -202,6 +248,23 @@ The author said he started asking the question at 16, what it would look like if
 &lt;p&gt;“Once again the greatest innovation would come not from the people who created the breakthrough but from the people who applied them usefully”&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;The stories in the book were great. Human beings pushing the frontiers of science and knowledge creating the future today.  And it is really exciting. Just today Microsoft announced their augmented reality glasses. I can’t wait to try them to see what I can create with them.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>The Normans From Raiders to Kings by Lars Brownworth</title>
+      <link>http://localhost:8080/articles/normans/</link>
+      <pubDate>Tue, 20 Jan 2015 16:00:00 -0800</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/normans/</guid>
+      <author></author>
+      <description>&lt;p&gt;King Harold of England has his armies ready for the invasion rumored to come. But he can’t keep his armies in the field forever and as fall approaches he disbands them and they prepare for winter.  Then news arrives the Viking King Hadrad had invaded with Harold’s estranged brother and had taken the city of York.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;York has agreed to give hostages to the vikings at a nearby bridge. So the vikings return to their ships and at the appointed time arrive to receive the hostages. To their surprise they are met with an army instead.&lt;/p&gt;
+&lt;p&gt;King Harold had covered 185 miles in four days with his army and was able to fend of the viking attack. The victory was short lived news came that the Duke of Normandy from France was invading London.  Harold rushed his army back but was defeated and killed.&lt;/p&gt;
+&lt;p&gt;So a Norman became ruler of Britain as well as the most powerful leader in France.&lt;/p&gt;
+&lt;p&gt;The book tells of their rise and fall and rise and fall.  The Normans created a kingdom in Sicily and southern Italy and had a huge impact on Europe during their reigns.&lt;/p&gt;
+&lt;p&gt;I was struck with the futility of these men. They fought, they killed then died and left nothing permanent or prosperous in their wake. Well maybe some did but it didn’t last very long.  &lt;/p&gt;
+&lt;p&gt;It was a violent time to live. It makes me grateful for the rule of law ideas that come down from the Anglo Saxons and their Magna Carta.  &lt;/p&gt;
+&lt;p&gt;All in all it was rather depressing to listen to the terrible things humans have done to each other for power and greed. &lt;/p&gt;
 </description>
     </item>
     <item>

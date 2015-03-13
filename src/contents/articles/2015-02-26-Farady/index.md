@@ -1,7 +1,7 @@
 ---
 title: Faraday, Maxwell and the Electromagnetic Field by Nancy Forbes and Basil Mahon
 author: Christen Thompson
-date: 2015-2-27
+date: 2015-2-26
 template: article.jade 
 ---
 
