@@ -22,3 +22,5 @@ He spoke of pseudo science and the differences between real science. I enjoyed h
 Do we live in a scientific world when every newspaper still prints a horoscope section? 
 
 It is important that we test statements and ideas and pronouncements with useful tests, involving control groups and recreating tests to see if we get the same data.
+
+

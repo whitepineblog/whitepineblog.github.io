@@ -5,11 +5,24 @@
     <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://localhost:8080</link>
     <description></description>
-    <pubDate>Wed, 11 Mar 2015 17:00:00 -0700</pubDate>
+    <pubDate>Wed, 18 Mar 2015 17:00:00 -0700</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
     <item>
-      <title>Empire and Gold</title>
+      <title>Stuff Matters by Mark Miodownik</title>
+      <link>http://localhost:8080/articles/2015-03-19/</link>
+      <pubDate>Wed, 18 Mar 2015 17:00:00 -0700</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/2015-03-19/</guid>
+      <author></author>
+      <description>&lt;p&gt;Steel, Cement, Paper, Chocolate, Carbon, Ceramics and other materials and their significance are examined in this fun to read little book written by a material scientist.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Iron was nice, steel was much nicer. The Samurai swords were the best for over 400 years. The process of removing impurities flattening and putting the brittle type of steel on the edge made it top notch tech.  Then Benjamin Huntsman figured out if you blow air through a molten iron ore you could remove impurities to make a better cheaper steel.  Then they figured out that adding carbon back in makes it stronger. Stainless steel was discovered quite by accident at a Gillete factory. The secret was the thin layer of chromium that prevented oxygen from contacting the iron and creating iron oxide.&lt;/p&gt;
+&lt;p&gt;Did you know concrete has terrible tensile strength?  It does great under compression. That is why the dome of the Pantheon is still standing. But check it out if you add steel to your concrete you get the best of both worlds, luckily they have very similar expansion and compression ratios.&lt;/p&gt;
+&lt;p&gt;I was fascinated by the stories of the material discovery, manufacturing and the effect it has had on the world and human society.  &lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Empire and Gold by Kwasi Kwarteng</title>
       <link>http://localhost:8080/articles/2015-03-12-Empire-Gold/</link>
       <pubDate>Wed, 11 Mar 2015 17:00:00 -0700</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/2015-03-12-Empire-Gold/</guid>

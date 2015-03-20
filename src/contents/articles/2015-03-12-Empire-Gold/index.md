@@ -1,5 +1,5 @@
 ---
-title: Empire and Gold
+title: Empire and Gold by Kwasi Kwarteng
 author: Christen Thompson
 date: 2015-3-12
 template: article.jade 
