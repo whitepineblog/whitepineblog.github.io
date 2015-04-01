@@ -5,9 +5,36 @@
     <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://localhost:8080</link>
     <description></description>
-    <pubDate>Wed, 18 Mar 2015 17:00:00 -0700</pubDate>
+    <pubDate>Wed, 01 Apr 2015 17:00:00 -0700</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>The Coming Singularity by Ray Kurzweil</title>
+      <link>http://localhost:8080/articles/2015-04-02-Singularity/</link>
+      <pubDate>Wed, 01 Apr 2015 17:00:00 -0700</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/2015-04-02-Singularity/</guid>
+      <author></author>
+      <description>&lt;p&gt;Organic evolution is slow, human tech evolution is an order of magnitude faster, artificial intelligent evolution and progression will be exponentially faster.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Human brains are slow, millions of times slower then a computer. But we are really good at recognizing patterns and doing some things that computers can’t do yet.&lt;/p&gt;
+&lt;p&gt;Once we create an AI the future will expand beyond us. And be given to our human creations.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>How Not to be wrong by Jordan Ellenberg</title>
+      <link>http://localhost:8080/articles/2015-03-30-How-Not-to-be-wrong/</link>
+      <pubDate>Sun, 29 Mar 2015 17:00:00 -0700</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/2015-03-30-How-Not-to-be-wrong/</guid>
+      <author></author>
+      <description>&lt;p&gt;The answer is use Math. But careful simple algebra doesn’t model the real world close enough or maybe your algebra is wrong.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Linear extrapolations of non linear graphs, probability, how/when to play a lottery, scatter plots, understanding what the numbers really mean.  Paying attention to the numbers.&lt;/p&gt;
+&lt;p&gt;Trends are not always linear. In fact they usually aren’t.  Sometimes they will level off at some point.  So in 2050 110% of Americans wont be fat!&lt;/p&gt;
+&lt;p&gt;We have a problem with studies.  Are the results really significant?  Often times not really.  Oh and don’t play the lottery, unless it is calculated to give you a good return, which a Massachusetts lottery did for a while until it stopped.&lt;/p&gt;
+&lt;p&gt;The book was light heartedly serious and fun to read. Proposals for new ways to use votes to select the winner. I learned about David Hilbert’s 23 questions for mathematics and lots of other cool ideas.&lt;/p&gt;
+&lt;p&gt;One can create their own math or geometries that sometimes actually turn out to be quite useful.&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Stuff Matters by Mark Miodownik</title>
       <link>http://localhost:8080/articles/2015-03-19/</link>
