@@ -1,5 +1,5 @@
 ---
-title: Voltair by Ian Davidson
+title: Voltaire by Ian Davidson
 author: Christen Thompson
 date: 2015-1-10
 template: article.jade 
