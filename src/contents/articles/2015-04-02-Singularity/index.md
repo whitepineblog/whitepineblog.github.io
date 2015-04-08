@@ -19,6 +19,6 @@ He talks of how quickly technology is getting better and cheaper, Moore's law, p
 
 Self replicating nano-tech will be a game changer, the ability to assemble and create whatever elements we desire for a very low price will change how we access resources. If we can arrange the elements, proteins, amino-acids to create what we want it will change industry, food creation and more.
 
-Ray is now the head of engineering at google who have recently purchased a slew of interesting companies including Deepmind and Boston Dynamics. The book was written a decade ago and today we are getting closer then ever.  Speech recognition is better, IBM's Watson is amazing, pattern recognition algorithims are much better and self driving cars work, just waiting for legislation/insurance decisions. Good VR are almost here from Valve, Sony, Facebook and the AR glasses from Microsoft look useful.
+Ray is now the head of engineering at google who have recently purchased a slew of interesting companies including Deepmind and Boston Dynamics. The book was written a decade ago and today we are getting closer then ever.  Speech recognition is better, IBM's Watson is amazing, pattern recognition algorithms are much better and self driving cars work, just waiting for legislation/insurance decisions. Good VR are almost here from Valve, Sony, Facebook and the AR glasses from Microsoft look useful.
 
 I think the future is going to get more exciting.
