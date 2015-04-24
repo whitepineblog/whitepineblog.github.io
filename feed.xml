@@ -5,9 +5,52 @@
     <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://localhost:8080</link>
     <description></description>
-    <pubDate>Wed, 01 Apr 2015 17:00:00 -0700</pubDate>
+    <pubDate>Wed, 22 Apr 2015 17:00:00 -0700</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>Creation - How Science Is Reinventing Life Itself by Adam Rutherford</title>
+      <link>http://localhost:8080/articles/2015-04-23-Creation/</link>
+      <pubDate>Wed, 22 Apr 2015 17:00:00 -0700</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/2015-04-23-Creation/</guid>
+      <author></author>
+      <description>&lt;p&gt;DNA is the code of life.  Humans are just now beginning to understand that code and manipulate  “What I cannot create I do not understand” - Richard Feynman
+&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Life’s code has an alphabet of 4 characters.  These 4 characters are the recipes for creating 20 amino acids.  The 20 amino acids are used to create proteins and are essential to life here on Earth.&lt;/p&gt;
+&lt;p&gt;Where did the recipe come from?  Scientists looking back into the evidence of the history of the Earth are missing a lot of evidence due to the early bombardment in the solar system.  Did life arise multiple times only to be wiped out by massive asteroids?  Its possible.  Was the precursor to DNA RNA?  Also possible.  Apparently cosmic dust is full of organic molecules.  Darwin supposed life began in a warm primordial pool and his idea  might not be that far off from the truth. Or was Earth seeded with life from elsewhere.&lt;/p&gt;
+&lt;p&gt;Thanks to many years of hard scientific and technological advancement genomes can be sequence, created and altered.  The entire DNA of a bacteria has been created and then placed inside a cell and it worked.  There is work going on in creating a new type of DNA using different molecules. Synthetic biology is happening already.  Just a few days ago several Chinese scientists published a paper about editing the genome in a human embryo.&lt;/p&gt;
+&lt;p&gt;DNA can carry code and can be used to store information today.  And it lasts for a long time.  We can still recover data from long dead mammoths. Maybe one day we will be storing archived data in DNA chips.&lt;/p&gt;
+&lt;p&gt;Evolution has provided the language of life and humans are going to use it, change it and optimize for their use.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Renee Descartes</title>
+      <link>http://localhost:8080/articles/2015-04-09-Descarte/</link>
+      <pubDate>Wed, 08 Apr 2015 17:00:00 -0700</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/2015-04-09-Descarte/</guid>
+      <author></author>
+      <description>&lt;p&gt;What can you really trust. Your senses can be deceived. Reason can be distilled down and all paradoxes discovered and addressed.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;When dreaming your mind can be fooled to thinking you are awake and any absurd or strange thing you experience feels real to your mind. Even if it doesn’t make sense.&lt;/p&gt;
+&lt;p&gt;Descartes if famous for saying I think therefore I am. For his philosophy he wanted to establish what you can really trust.  Can you trust your senses?  He says no.  Take for example dreaming.  When in a dream you often think it is real and your senses say to your mind it is.  Likewise when awake your senses can be deceived.  &lt;/p&gt;
+&lt;p&gt;Reason or mine own thoughts can be examined.  If there is something incorrect in them eventually I can find the inconsistencies or the paradoxes.  From the establishment of reason and the ability to think as a base Descartes goes on to say that God must exist because a creator or a first thinker is required.&lt;/p&gt;
+&lt;p&gt;He was quite the individual, very prolific in his life.  Creating, researching, thinking questioning.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Meditations by Marcus Aurelias</title>
+      <link>http://localhost:8080/articles/2015-04-07-Aurelias/</link>
+      <pubDate>Mon, 06 Apr 2015 17:00:00 -0700</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/2015-04-07-Aurelias/</guid>
+      <author></author>
+      <description>&lt;p&gt;Almost 2000 years ago the emperor of the Roman empire wrote down his notes about his life.  Short sayings and ideas about how to live and what he had learned.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;It is still interesting to read today. He followed the Stoic philosophy. A focus on doing your duty and your best, remembering that death comes to all and you don’t know when so value and use the moment wisely.&lt;/p&gt;
+&lt;p&gt;“You need to avoid certain things in your train of thought: everything random, everything irrelevant.”&lt;/p&gt;
+&lt;p&gt;“Don’t wast the rest of your time worrying about other people-unless it affects the common good. You will be to preoccupied with what so and so is doing, and why, and what they’re saying, and what they’re thinking … and all the other things that throw you off and keep you from focusing on your own mind”&lt;/p&gt;
+&lt;p&gt;“Even if you’re going to live three thousand more years, or ten time that, remember you cannot lose another life than the one you’re living now, or live another one then the one you’re losing.  The longest amounts to the shortest. The present is the same for everyone its loss is the same for everyone and it should be clear that a brief instant is all that is lost. For you can’t lose either the past or the future. How could you lose what you don’t have.”&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>The Coming Singularity by Ray Kurzweil</title>
       <link>http://localhost:8080/articles/2015-04-02-Singularity/</link>
@@ -21,7 +64,7 @@
 &lt;p&gt;This will happen on several fronts, intelligence, energy and nano-technology.  With sufficient nano-technology we will be able to replace our blood, replace our organs to solve problems of disease and longevity.&lt;/p&gt;
 &lt;p&gt;He talks of how quickly technology is getting better and cheaper, Moore’s law, photo voltaic panels, nano tubes and reversible computing.  The future is quite exciting, he also addresses the concerns of war, terrorism.  We can’t stop funding research or we will be vulnerable to those who keep doing research.&lt;/p&gt;
 &lt;p&gt;Self replicating nano-tech will be a game changer, the ability to assemble and create whatever elements we desire for a very low price will change how we access resources. If we can arrange the elements, proteins, amino-acids to create what we want it will change industry, food creation and more.&lt;/p&gt;
-&lt;p&gt;Ray is now the head of engineering at google who have recently purchased a slew of interesting companies including Deepmind and Boston Dynamics. The book was written a decade ago and today we are getting closer then ever.  Speech recognition is better, IBM’s Watson is amazing, pattern recognition algorithims are much better and self driving cars work, just waiting for legislation/insurance decisions. Good VR are almost here from Valve, Sony, Facebook and the AR glasses from Microsoft look useful.&lt;/p&gt;
+&lt;p&gt;Ray is now the head of engineering at google who have recently purchased a slew of interesting companies including Deepmind and Boston Dynamics. The book was written a decade ago and today we are getting closer then ever.  Speech recognition is better, IBM’s Watson is amazing, pattern recognition algorithms are much better and self driving cars work, just waiting for legislation/insurance decisions. Good VR are almost here from Valve, Sony, Facebook and the AR glasses from Microsoft look useful.&lt;/p&gt;
 &lt;p&gt;I think the future is going to get more exciting.&lt;/p&gt;
 </description>
     </item>
@@ -258,23 +301,6 @@ The author said he started asking the question at 16, what it would look like if
 </description>
     </item>
     <item>
-      <title>The Normans From Raiders to Kings by Lars Brownworth</title>
-      <link>http://localhost:8080/articles/normans/</link>
-      <pubDate>Tue, 20 Jan 2015 16:00:00 -0800</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/normans/</guid>
-      <author></author>
-      <description>&lt;p&gt;King Harold of England has his armies ready for the invasion rumored to come. But he can’t keep his armies in the field forever and as fall approaches he disbands them and they prepare for winter.  Then news arrives the Viking King Hadrad had invaded with Harold’s estranged brother and had taken the city of York.&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;York has agreed to give hostages to the vikings at a nearby bridge. So the vikings return to their ships and at the appointed time arrive to receive the hostages. To their surprise they are met with an army instead.&lt;/p&gt;
-&lt;p&gt;King Harold had covered 185 miles in four days with his army and was able to fend of the viking attack. The victory was short lived news came that the Duke of Normandy from France was invading London.  Harold rushed his army back but was defeated and killed.&lt;/p&gt;
-&lt;p&gt;So a Norman became ruler of Britain as well as the most powerful leader in France.&lt;/p&gt;
-&lt;p&gt;The book tells of their rise and fall and rise and fall.  The Normans created a kingdom in Sicily and southern Italy and had a huge impact on Europe during their reigns.&lt;/p&gt;
-&lt;p&gt;I was struck with the futility of these men. They fought, they killed then died and left nothing permanent or prosperous in their wake. Well maybe some did but it didn’t last very long.  &lt;/p&gt;
-&lt;p&gt;It was a violent time to live. It makes me grateful for the rule of law ideas that come down from the Anglo Saxons and their Magna Carta.  &lt;/p&gt;
-&lt;p&gt;All in all it was rather depressing to listen to the terrible things humans have done to each other for power and greed. &lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>The Innovators by Walter Isaacson</title>
       <link>http://localhost:8080/articles/innovators/</link>
       <pubDate>Tue, 20 Jan 2015 16:00:00 -0800</pubDate>
@@ -310,6 +336,23 @@ The author said he started asking the question at 16, what it would look like if
 &lt;p&gt;“Once again the greatest innovation would come not from the people who created the breakthrough but from the people who applied them usefully”&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;The stories in the book were great. Human beings pushing the frontiers of science and knowledge creating the future today.  And it is really exciting. Just today Microsoft announced their augmented reality glasses. I can’t wait to try them to see what I can create with them.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>The Normans From Raiders to Kings by Lars Brownworth</title>
+      <link>http://localhost:8080/articles/normans/</link>
+      <pubDate>Tue, 20 Jan 2015 16:00:00 -0800</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/normans/</guid>
+      <author></author>
+      <description>&lt;p&gt;King Harold of England has his armies ready for the invasion rumored to come. But he can’t keep his armies in the field forever and as fall approaches he disbands them and they prepare for winter.  Then news arrives the Viking King Hadrad had invaded with Harold’s estranged brother and had taken the city of York.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;York has agreed to give hostages to the vikings at a nearby bridge. So the vikings return to their ships and at the appointed time arrive to receive the hostages. To their surprise they are met with an army instead.&lt;/p&gt;
+&lt;p&gt;King Harold had covered 185 miles in four days with his army and was able to fend of the viking attack. The victory was short lived news came that the Duke of Normandy from France was invading London.  Harold rushed his army back but was defeated and killed.&lt;/p&gt;
+&lt;p&gt;So a Norman became ruler of Britain as well as the most powerful leader in France.&lt;/p&gt;
+&lt;p&gt;The book tells of their rise and fall and rise and fall.  The Normans created a kingdom in Sicily and southern Italy and had a huge impact on Europe during their reigns.&lt;/p&gt;
+&lt;p&gt;I was struck with the futility of these men. They fought, they killed then died and left nothing permanent or prosperous in their wake. Well maybe some did but it didn’t last very long.  &lt;/p&gt;
+&lt;p&gt;It was a violent time to live. It makes me grateful for the rule of law ideas that come down from the Anglo Saxons and their Magna Carta.  &lt;/p&gt;
+&lt;p&gt;All in all it was rather depressing to listen to the terrible things humans have done to each other for power and greed. &lt;/p&gt;
 </description>
     </item>
     <item>
