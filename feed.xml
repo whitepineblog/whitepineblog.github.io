@@ -5,13 +5,13 @@
     <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://localhost:8080</link>
     <description></description>
-    <pubDate>Wed, 22 Apr 2015 17:00:00 -0700</pubDate>
+    <pubDate>Mon, 04 May 2015 17:00:00 -0700</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
     <item>
       <title>Superintelligece By Nick Bostrom</title>
       <link>http://localhost:8080/articles/2015-05-05-Superintelligence/</link>
-      <pubDate>Wed, 22 Apr 2015 17:00:00 -0700</pubDate>
+      <pubDate>Mon, 04 May 2015 17:00:00 -0700</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/2015-05-05-Superintelligence/</guid>
       <author></author>
       <description>&lt;p&gt;What happens when humanity create something more powerful then itself?&lt;/p&gt;

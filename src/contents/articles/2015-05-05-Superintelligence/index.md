@@ -1,7 +1,7 @@
 ---
 title: Superintelligece By Nick Bostrom
 author: Christen Thompson
-date: 2015-4-23
+date: 2015-5-5
 template: article.jade 
 ---
 
