@@ -5,9 +5,37 @@
     <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://localhost:8080</link>
     <description></description>
-    <pubDate>Mon, 04 May 2015 17:00:00 -0700</pubDate>
+    <pubDate>Fri, 08 May 2015 17:00:00 -0700</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>PAC by Leslie Valiant Part II</title>
+      <link>http://localhost:8080/articles/2015-05-10-PAC/</link>
+      <pubDate>Fri, 08 May 2015 17:00:00 -0700</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/2015-05-10-PAC/</guid>
+      <author></author>
+      <description>&lt;p&gt;So how does it work anyways?&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;In developing a model, or algorithms for cognition he identified 4 challenges.&lt;/p&gt;
+&lt;p&gt;The challenges of complexity, brittleness, semantics and grounding.&lt;/p&gt;
+&lt;p&gt;NP problems - you don’t have more time then the time in the universe to solve a problem. &lt;/p&gt;
+&lt;p&gt;Brittle - Rules are so rigid anything slightly different breaks the algorithm.&lt;/p&gt;
+&lt;p&gt;Semantics - Defining the rules.&lt;/p&gt;
+&lt;p&gt;Grounding - Recognizing absurd conclusions.&lt;/p&gt;
+&lt;p&gt;The idea of a minds eye, a focus point through which we view the world. Our minds can only have between 5 to 9 things in the short term area going on at once.  We don’t consciously perceive or record all the the inputs coming in, just the things we flag as important.  Then that goes into our long term storage which is practically infinite.&lt;/p&gt;
+&lt;p&gt;It is like placing yourself in position to catch a thrown football, you keep your eye on it and match your angle to the ball so you and the ball meet.  You don’t track the other 100 variables such as the release speed, the calculation of the parabolic arc, the effect of friction, wind.  Just keep your eye on the ball.&lt;/p&gt;
+&lt;p&gt;Our learned knowledge is learned from real world experience but only after filtering.&lt;/p&gt;
+&lt;p&gt;Define a scene with t1 … t20 variables.&lt;/p&gt;
+&lt;p&gt;Define independently quantified expressions (IQE) that match the seen.&lt;/p&gt;
+&lt;p&gt;Such as there exists an elephant in the scene, that elephant likes peanuts. &lt;/p&gt;
+&lt;p&gt;Then use a learning algorithm such as the winnow to remove redundant IQE files. And store the valid IQEs into a long term memory.&lt;/p&gt;
+&lt;p&gt;These are the Ecorithms: learning, reasoning, and reasoning from learned data.&lt;/p&gt;
+&lt;p&gt;Cognitive concepts are computational in that they have to be acquired by some sort of learning algorithm.&lt;/p&gt;
+&lt;p&gt;Can the human mind be based on such a simple model?  Leslie Valiant thinks so.&lt;/p&gt;
+&lt;p&gt;Adaboost - a method to use weak learning repeatedly to make it strong learning.&lt;/p&gt;
+&lt;p&gt;If a database of typical examples can be produced then machine learning can be much more effective.&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Superintelligece By Nick Bostrom</title>
       <link>http://localhost:8080/articles/2015-05-05-Superintelligence/</link>
