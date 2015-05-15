@@ -1,7 +1,7 @@
 ---
 title: PAC by Leslie Valiant Part II
 author: Christen Thompson
-date: 2015-5-10
+date: 2015-5-9
 template: article.jade 
 ---
 
@@ -36,6 +36,14 @@ Such as there exists an elephant in the scene, that elephant likes peanuts.
 Then use a learning algorithm such as the winnow to remove redundant IQE files. And store the valid IQEs into a long term memory.
 
 These are the Ecorithms: learning, reasoning, and reasoning from learned data.
+
+Cognitive concepts are computational in that they have to be acquired by some sort of learning algorithm.
+
+Can the human mind be based on such a simple model?  Leslie Valiant thinks so.
+
+Adaboost - a method to use weak learning repeatedly to make it strong learning.
+
+If a database of typical examples can be produced then machine learning can be much more effective.
 
 
 
