@@ -5,9 +5,41 @@
     <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://localhost:8080</link>
     <description></description>
-    <pubDate>Fri, 22 May 2015 17:00:00 -0700</pubDate>
+    <pubDate>Fri, 29 May 2015 17:00:00 -0700</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>ENIAC by Scott Mcartney</title>
+      <link>http://localhost:8080/articles/2015-05-30-Eniac/</link>
+      <pubDate>Fri, 29 May 2015 17:00:00 -0700</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/2015-05-30-Eniac/</guid>
+      <author></author>
+      <description>&lt;p&gt;John Mauchly, Presper Eckert created the ENIAC for the military and launched electronic computing.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Mechanical computers were in use.  They were slow and unreliable. With world war 2 on the tables for artillery were desperately needed.&lt;/p&gt;
+&lt;p&gt;Eckert and Mauchly came up with the proposal to build a pure electrical machine.  1000 times faster then other mechanical ones.&lt;/p&gt;
+&lt;p&gt;18,000 Vacuum tubes.&lt;/p&gt;
+&lt;p&gt;Base 10, timer circuit, parallel computation model.&lt;/p&gt;
+&lt;p&gt;Univac&lt;/p&gt;
+&lt;p&gt;Princeton &lt;/p&gt;
+&lt;p&gt;Patent fights&lt;/p&gt;
+&lt;p&gt;Launching their own company, bankruptcy, IBM and others coming along and then lawsuits.&lt;/p&gt;
+&lt;p&gt;Loss of recognition.  Von Neumann architecture instead of Eckert Architecture.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Thor's Angels from Hardcore History</title>
+      <link>http://localhost:8080/articles/2015-05-29-Thor%27s-Angels/</link>
+      <pubDate>Thu, 28 May 2015 17:00:00 -0700</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/2015-05-29-Thor%27s-Angels/</guid>
+      <author></author>
+      <description>&lt;p&gt;Visigoths, barbarians, sacking and destruction of Rome, to the Charlemagne.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;What if civilization and its tools were rolled back. What if you lived in those ruins and couldn’t even come close to recreating what came before.&lt;/p&gt;
+&lt;p&gt;The inhabitants of Rome during the Middle Ages got experience that. In fact the unifying leader, Charlemagne couldn’t even read. We know nothing of his boyhood, record keeping was not the strong suit of the time.  But he made real effort and made sure his children got the best schooling.&lt;/p&gt;
+&lt;p&gt;The Europeans recovered enough and then surpassed the Roman and other classic technology and went on to rule the world for a time.&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Wrath of the Khans from Hardcore History</title>
       <link>http://localhost:8080/articles/2015-05-23-Wrath-of-Khans/</link>
