@@ -1,0 +1,22 @@
+---
+title: American Peril from Hardcore History
+author: Christen Thompson
+date: 2015-6-01
+template: article.jade 
+---
+
+What happens when a majority in a Republic desires an Empire?
+
+<span class="more"></span>
+
+William Mckinley was president. Cuba was fighting to be free. Spain wasn't willing to sell Cuba for the huge sum at the time of $100 million dollars.  
+
+Teddy Roosevelt was secretary of the navy and gave up his position to win "glory" on the front lines of the fight.
+
+What a disastrous fight it was. The Spanish ordered all the locals into forts and burned the villages and farms trying to remove access to supplies for all the rebels. Problem was there wasn't enough food, supplies in the forts so the people themselves began to die.  Maybe as many as 400,000.
+
+This was a time when the press recognizable in a form similar to today. They new that war and tragedy sold. So that is what they wrote about.
+
+The Americans also captured the Philippines, where they ended up suppressing a deadly insurgency that lasted at least into 1913.
+
+
