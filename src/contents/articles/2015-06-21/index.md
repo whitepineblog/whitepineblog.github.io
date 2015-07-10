@@ -1,7 +1,7 @@
 ---
 title: Recipe For Armageddon from Hardcore History
 author: Christen Thompson
-date: 2015-6-01
+date: 2015-6-21
 template: article.jade 
 ---
 

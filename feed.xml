@@ -5,13 +5,57 @@
     <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://localhost:8080</link>
     <description></description>
-    <pubDate>Mon, 01 Jun 2015 02:00:00 +0200</pubDate>
+    <pubDate>Tue, 30 Jun 2015 17:00:00 -0700</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
     <item>
+      <title>Structures by J.E. Gordon</title>
+      <link>http://localhost:8080/articles/2015-07-01-Structures/</link>
+      <pubDate>Tue, 30 Jun 2015 17:00:00 -0700</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/2015-07-01-Structures/</guid>
+      <author></author>
+      <description>&lt;p&gt;Castles, cathedrals, skyscrapers, homes and all of the buildings that humans create need to follow the laws of physics.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Understanding materials, designs, shapes and how they interact to allow for the creation of structures has been built upon generations of knowledge and more recently scientific and experimental data.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Ice Age by John Gribbin</title>
+      <link>http://localhost:8080/articles/2015-06-29-Ice-Ages/</link>
+      <pubDate>Sun, 28 Jun 2015 17:00:00 -0700</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/2015-06-29-Ice-Ages/</guid>
+      <author></author>
+      <description>&lt;p&gt;Our current climate is a warm period after successive coverings of ice. The increase in ice 3 million years ago may have been a significant factor leading to the evolution of humans. &lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;When hikers, or others would look at the piles of rocks and rubbles seemingly in the middle of nowhere there was no explanation as to how they got there.&lt;/p&gt;
+&lt;p&gt;In the early 1800’s geologists were divided into 2 groups.  Catastrophic changes and uniform changes. The catastrophic group thought the layers and different species could be explained by relatively recent events such as a great flood and that God would create the new creatures after such events. Uniformists believed that the earth in the past must have behaved much as the earth does today. To explain the layers of rock and fossils it required much longer periods of times.&lt;/p&gt;
+&lt;p&gt;The idea that giant sheets of ice covered much of North America and Europe took a lot of effort and evidence to be believed and eventually to become the accepted model.&lt;/p&gt;
+&lt;p&gt;The journey to acceptance required a lot of work, measurement, math and ideas from many scientists.
+Calculations of the eccentricity the orbit of the earth, the wobble the access showed that we should have ice age periods every 18,000 and 23,000 years.&lt;/p&gt;
+&lt;p&gt;These were backed up by deep sea bed core samples, which accumulated 3 millimeters a year in some places.
+We should be going into another glacial period now, but maybe we have been saved from it by global warming.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>The Grand Design by Stephen Hawking</title>
+      <link>http://localhost:8080/articles/2015-06-26-Grand-Design/</link>
+      <pubDate>Thu, 25 Jun 2015 17:00:00 -0700</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/2015-06-26-Grand-Design/</guid>
+      <author></author>
+      <description>&lt;p&gt;We use models to interpret everything we experience. &lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Like 2d maps overlap to represent a 3d world models in physics overlap to explain the rules and properties of our universe.&lt;/p&gt;
+&lt;p&gt;Thales, Anaxamander and others discovered models that helped explain the world around them.  Eratosthenes was even able to obtain a very accurate measurement of the size of the planet.&lt;/p&gt;
+&lt;p&gt;He had heard that south in the city of Swenet the Sun would appear directly overhead at the zenith.  So he from where he was north, at noon on the summer solstice in Alexandria he measured the Sun’s angle of elevation.  He found it to be 1/50th of a circle. The distance from Alexandria to Swenet was known and from that he was able to estimate the circumference of the Earth.&lt;/p&gt;
+&lt;p&gt;Unfortunately Aristotle was not so big on checking out that his ideas and theories matched reality. And if they didn’t he would do a little adjusting. Like creating the idea of an Ether. His idea’s and Models held sway for well over a thousand years until people began to question them during the enlightenment.&lt;/p&gt;
+&lt;p&gt;Ptolemy created a model that explained the motions of the planet with epicycles, circles inside circles. It wasn’t until Copernicus and Galileo almost 1500 years later that better models were created and then they were met with such strong resistance that Copernicus only published posthumously and Galileo was sentenced to house arrest in his old age.&lt;/p&gt;
+&lt;p&gt;Newton created his models of gravity and motion, Faraday came up with his models of force fields that were explained mathematically by Maxwell and Einstien helped us understand the universe with yet another model that worked even better then the ones that came before. &lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>Recipe For Armageddon from Hardcore History</title>
       <link>http://localhost:8080/articles/2015-06-21/</link>
-      <pubDate>Mon, 01 Jun 2015 02:00:00 +0200</pubDate>
+      <pubDate>Sat, 20 Jun 2015 17:00:00 -0700</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/2015-06-21/</guid>
       <author></author>
       <description>&lt;p&gt;The heir to the throne of Austria-Hungary is assassinated, and eventually the whole world becomes entangled in a conflict that few even wanted.&lt;/p&gt;
@@ -27,7 +71,7 @@
     <item>
       <title>American Peril from Hardcore History</title>
       <link>http://localhost:8080/articles/2015-06-01-American-Peril/</link>
-      <pubDate>Mon, 01 Jun 2015 02:00:00 +0200</pubDate>
+      <pubDate>Sun, 31 May 2015 17:00:00 -0700</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/2015-06-01-American-Peril/</guid>
       <author></author>
       <description>&lt;p&gt;What happens when a majority in a Republic desires an Empire?&lt;/p&gt;
@@ -42,7 +86,7 @@
     <item>
       <title>ENIAC by Scott Mcartney</title>
       <link>http://localhost:8080/articles/2015-05-30-Eniac/</link>
-      <pubDate>Sat, 30 May 2015 02:00:00 +0200</pubDate>
+      <pubDate>Fri, 29 May 2015 17:00:00 -0700</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/2015-05-30-Eniac/</guid>
       <author></author>
       <description>&lt;p&gt;John Mauchly, Presper Eckert created the ENIAC for the military and launched electronic computing.&lt;/p&gt;
@@ -61,7 +105,7 @@
     <item>
       <title>Thor's Angels from Hardcore History</title>
       <link>http://localhost:8080/articles/2015-05-29-Thor%27s-Angels/</link>
-      <pubDate>Fri, 29 May 2015 02:00:00 +0200</pubDate>
+      <pubDate>Thu, 28 May 2015 17:00:00 -0700</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/2015-05-29-Thor%27s-Angels/</guid>
       <author></author>
       <description>&lt;p&gt;Visigoths, barbarians, sacking and destruction of Rome, to the Charlemagne.&lt;/p&gt;
@@ -74,7 +118,7 @@
     <item>
       <title>Wrath of the Khans from Hardcore History</title>
       <link>http://localhost:8080/articles/2015-05-23-Wrath-of-Khans/</link>
-      <pubDate>Sat, 23 May 2015 02:00:00 +0200</pubDate>
+      <pubDate>Fri, 22 May 2015 17:00:00 -0700</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/2015-05-23-Wrath-of-Khans/</guid>
       <author></author>
       <description>&lt;p&gt;The Khans conquered more lands, destroyed more nations and changed the world. And they did it very effectively for generations.&lt;/p&gt;
@@ -88,7 +132,7 @@
     <item>
       <title>Thinking by John Brockman</title>
       <link>http://localhost:8080/articles/2015-05-15-Thinking/</link>
-      <pubDate>Fri, 15 May 2015 02:00:00 +0200</pubDate>
+      <pubDate>Thu, 14 May 2015 17:00:00 -0700</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/2015-05-15-Thinking/</guid>
       <author></author>
       <description>&lt;p&gt;Get a collection of psychologists to a conference, record their talks and create the transcript.&lt;/p&gt;
@@ -105,7 +149,7 @@
     <item>
       <title>PAC by Leslie Valiant Part II</title>
       <link>http://localhost:8080/articles/2015-05-10-PAC/</link>
-      <pubDate>Sat, 09 May 2015 02:00:00 +0200</pubDate>
+      <pubDate>Fri, 08 May 2015 17:00:00 -0700</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/2015-05-10-PAC/</guid>
       <author></author>
       <description>&lt;p&gt;So how does it work anyways?&lt;/p&gt;
@@ -133,7 +177,7 @@
     <item>
       <title>Superintelligece By Nick Bostrom</title>
       <link>http://localhost:8080/articles/2015-05-05-Superintelligence/</link>
-      <pubDate>Tue, 05 May 2015 02:00:00 +0200</pubDate>
+      <pubDate>Mon, 04 May 2015 17:00:00 -0700</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/2015-05-05-Superintelligence/</guid>
       <author></author>
       <description>&lt;p&gt;What happens when humanity create something more powerful then itself?&lt;/p&gt;
@@ -149,7 +193,7 @@
     <item>
       <title>Creation - How Science Is Reinventing Life Itself by Adam Rutherford</title>
       <link>http://localhost:8080/articles/2015-04-23-Creation/</link>
-      <pubDate>Thu, 23 Apr 2015 02:00:00 +0200</pubDate>
+      <pubDate>Wed, 22 Apr 2015 17:00:00 -0700</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/2015-04-23-Creation/</guid>
       <author></author>
       <description>&lt;p&gt;DNA is the code of life.  Humans are just now beginning to understand that code and manipulate  “What I cannot create I do not understand” - Richard Feynman
@@ -164,7 +208,7 @@
     <item>
       <title>Renee Descartes</title>
       <link>http://localhost:8080/articles/2015-04-09-Descarte/</link>
-      <pubDate>Thu, 09 Apr 2015 02:00:00 +0200</pubDate>
+      <pubDate>Wed, 08 Apr 2015 17:00:00 -0700</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/2015-04-09-Descarte/</guid>
       <author></author>
       <description>&lt;p&gt;What can you really trust. Your senses can be deceived. Reason can be distilled down and all paradoxes discovered and addressed.&lt;/p&gt;
@@ -178,7 +222,7 @@
     <item>
       <title>Meditations by Marcus Aurelias</title>
       <link>http://localhost:8080/articles/2015-04-07-Aurelias/</link>
-      <pubDate>Tue, 07 Apr 2015 02:00:00 +0200</pubDate>
+      <pubDate>Mon, 06 Apr 2015 17:00:00 -0700</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/2015-04-07-Aurelias/</guid>
       <author></author>
       <description>&lt;p&gt;Almost 2000 years ago the emperor of the Roman empire wrote down his notes about his life.  Short sayings and ideas about how to live and what he had learned.&lt;/p&gt;
@@ -192,7 +236,7 @@
     <item>
       <title>The Coming Singularity by Ray Kurzweil</title>
       <link>http://localhost:8080/articles/2015-04-02-Singularity/</link>
-      <pubDate>Thu, 02 Apr 2015 02:00:00 +0200</pubDate>
+      <pubDate>Wed, 01 Apr 2015 17:00:00 -0700</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/2015-04-02-Singularity/</guid>
       <author></author>
       <description>&lt;p&gt;Organic evolution is slow, human tech evolution is an order of magnitude faster, artificial intelligent evolution and progression will be exponentially faster.&lt;/p&gt;
@@ -209,7 +253,7 @@
     <item>
       <title>How Not to be wrong by Jordan Ellenberg</title>
       <link>http://localhost:8080/articles/2015-03-30-How-Not-to-be-wrong/</link>
-      <pubDate>Mon, 30 Mar 2015 02:00:00 +0200</pubDate>
+      <pubDate>Sun, 29 Mar 2015 17:00:00 -0700</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/2015-03-30-How-Not-to-be-wrong/</guid>
       <author></author>
       <description>&lt;p&gt;The answer is use Math. But careful simple algebra doesn’t model the real world close enough or maybe your algebra is wrong.&lt;/p&gt;
@@ -224,7 +268,7 @@
     <item>
       <title>Stuff Matters by Mark Miodownik</title>
       <link>http://localhost:8080/articles/2015-03-19/</link>
-      <pubDate>Thu, 19 Mar 2015 01:00:00 +0100</pubDate>
+      <pubDate>Wed, 18 Mar 2015 17:00:00 -0700</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/2015-03-19/</guid>
       <author></author>
       <description>&lt;p&gt;Steel, Cement, Paper, Chocolate, Carbon, Ceramics and other materials and their significance are examined in this fun to read little book written by a material scientist.&lt;/p&gt;
@@ -237,7 +281,7 @@
     <item>
       <title>Empire and Gold by Kwasi Kwarteng</title>
       <link>http://localhost:8080/articles/2015-03-12-Empire-Gold/</link>
-      <pubDate>Thu, 12 Mar 2015 01:00:00 +0100</pubDate>
+      <pubDate>Wed, 11 Mar 2015 17:00:00 -0700</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/2015-03-12-Empire-Gold/</guid>
       <author></author>
       <description>&lt;p&gt;Gold and Money, the South Sea Bubble, Mississippi Company, Tulip futures, Real estate bubbles and the list goes one with the ups and downs of currency. &lt;/p&gt;
@@ -251,7 +295,7 @@
     <item>
       <title>The Pleasure of Finding Things Out Richard Feynman</title>
       <link>http://localhost:8080/articles/2015-03-11/</link>
-      <pubDate>Wed, 11 Mar 2015 01:00:00 +0100</pubDate>
+      <pubDate>Tue, 10 Mar 2015 17:00:00 -0700</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/2015-03-11/</guid>
       <author></author>
       <description>&lt;p&gt;Understanding the world around you. Asking useful questions. Being an intelligent human being. Some of the concepts you can find in this collection of short works.&lt;/p&gt;
@@ -268,7 +312,7 @@
     <item>
       <title>Sapiens a Brief history of Humankind by Yuval Harari</title>
       <link>http://localhost:8080/articles/2015-03-02-HomoSapiens/</link>
-      <pubDate>Mon, 02 Mar 2015 01:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Mar 2015 16:00:00 -0800</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/2015-03-02-HomoSapiens/</guid>
       <author></author>
       <description>&lt;p&gt;The species that has come to dominate planet earth.&lt;/p&gt;
@@ -283,7 +327,7 @@
     <item>
       <title>Autobiography of Andrew Carnegie</title>
       <link>http://localhost:8080/articles/2015-02-27-Carnagie/</link>
-      <pubDate>Fri, 27 Feb 2015 01:00:00 +0100</pubDate>
+      <pubDate>Thu, 26 Feb 2015 16:00:00 -0800</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/2015-02-27-Carnagie/</guid>
       <author></author>
       <description>&lt;p&gt;Andrew Carnegie, a poor Irish kid who set the pattern for modern philanthropy.&lt;/p&gt;
@@ -300,7 +344,7 @@
     <item>
       <title>Faraday, Maxwell and the Electromagnetic Field by Nancy Forbes and Basil Mahon</title>
       <link>http://localhost:8080/articles/2015-02-26-Farady/</link>
-      <pubDate>Thu, 26 Feb 2015 01:00:00 +0100</pubDate>
+      <pubDate>Wed, 25 Feb 2015 16:00:00 -0800</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/2015-02-26-Farady/</guid>
       <author></author>
       <description>&lt;p&gt;Experimenter and mathematician Faraday discovered properties of magnetic fields and among one of the many things Maxwell did he modeled these properties in mathematics. &lt;/p&gt;
@@ -318,7 +362,7 @@
     <item>
       <title>Albert Einstein, Creator &amp; Rebel by Banesh Hoffman</title>
       <link>http://localhost:8080/articles/2015-02-14/</link>
-      <pubDate>Sat, 14 Feb 2015 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 14 Feb 2015 00:00:00 -0800</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/2015-02-14/</guid>
       <author></author>
       <description>&lt;p&gt;Wow, what a life. He changed how we understand the world.  And it wasn’t just one paper. He produced new ideas repeatedly.  How did he do it?&lt;/p&gt;
@@ -336,7 +380,7 @@ The author said he started asking the question at 16, what it would look like if
     <item>
       <title>Spinoza A Life by Steven Nadler</title>
       <link>http://localhost:8080/articles/2015-02-09-Spinoza/</link>
-      <pubDate>Mon, 09 Feb 2015 01:00:00 +0100</pubDate>
+      <pubDate>Sun, 08 Feb 2015 16:00:00 -0800</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/2015-02-09-Spinoza/</guid>
       <author></author>
       <description>&lt;p&gt;His people were rejected from Spain and came to Amsterdam and were finally able to practice the Jewish religion openly.  Spinoza in turn was excommunicated from his people because of his ideas.&lt;/p&gt;
@@ -354,7 +398,7 @@ The author said he started asking the question at 16, what it would look like if
     <item>
       <title>The Man Who Knew To Much by David Leavitt</title>
       <link>http://localhost:8080/articles/2015-02-08-turing/</link>
-      <pubDate>Sun, 08 Feb 2015 01:00:00 +0100</pubDate>
+      <pubDate>Sat, 07 Feb 2015 16:00:00 -0800</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/2015-02-08-turing/</guid>
       <author></author>
       <description>&lt;p&gt;Alan Turing, the mathematician who thought of the universal machine.  One that could be made and programmed to do a variety of tasks and then one day even be able to think.&lt;/p&gt;
@@ -369,7 +413,7 @@ The author said he started asking the question at 16, what it would look like if
     <item>
       <title>Heroes of History by Will Durant</title>
       <link>http://localhost:8080/articles/2015-02-07/</link>
-      <pubDate>Sat, 07 Feb 2015 01:00:00 +0100</pubDate>
+      <pubDate>Fri, 06 Feb 2015 16:00:00 -0800</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/2015-02-07/</guid>
       <author></author>
       <description>&lt;p&gt;From the pyramids to  Martin Luther and many people in between Durant paints a fascinating picture of humans and their interactions with each other.&lt;/p&gt;
@@ -384,7 +428,7 @@ The author said he started asking the question at 16, what it would look like if
     <item>
       <title>Great Speeches in History by Normon Rodway, Samuel West</title>
       <link>http://localhost:8080/articles/2015-02-03/</link>
-      <pubDate>Tue, 03 Feb 2015 01:00:00 +0100</pubDate>
+      <pubDate>Mon, 02 Feb 2015 16:00:00 -0800</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/2015-02-03/</guid>
       <author></author>
       <description>&lt;p&gt;Socrates, “Now it is time that we were going, I to die and you to live, but which of us has the happier prospect is unknown to anyone but God.”&lt;/p&gt;
@@ -399,7 +443,7 @@ The author said he started asking the question at 16, what it would look like if
     <item>
       <title>Probably Approximately Correct by Leslie Valiant Part 1</title>
       <link>http://localhost:8080/articles/2015-01-30-pac/</link>
-      <pubDate>Fri, 30 Jan 2015 01:00:00 +0100</pubDate>
+      <pubDate>Thu, 29 Jan 2015 16:00:00 -0800</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/2015-01-30-pac/</guid>
       <author></author>
       <description>&lt;p&gt;Evolution is the process of learning what works and what doesn’t based on feedback of changes in the genome. Describing that process in an algorithm or ecorithm as the author describes it will allow us to create programs that can learn.&lt;/p&gt;
@@ -419,7 +463,7 @@ The author said he started asking the question at 16, what it would look like if
     <item>
       <title>The End of Power by Moises Naim</title>
       <link>http://localhost:8080/articles/2015-01-30-end-of-power/</link>
-      <pubDate>Thu, 29 Jan 2015 01:00:00 +0100</pubDate>
+      <pubDate>Wed, 28 Jan 2015 16:00:00 -0800</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/2015-01-30-end-of-power/</guid>
       <author></author>
       <description>&lt;p&gt;The world is changing in multiple ways. One interesting way is the extent of power that powerful people have and rapidly, especially in the last 30 years.&lt;/p&gt;
@@ -441,7 +485,7 @@ The author said he started asking the question at 16, what it would look like if
     <item>
       <title>The Normans From Raiders to Kings by Lars Brownworth</title>
       <link>http://localhost:8080/articles/normans/</link>
-      <pubDate>Wed, 21 Jan 2015 01:00:00 +0100</pubDate>
+      <pubDate>Tue, 20 Jan 2015 16:00:00 -0800</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/normans/</guid>
       <author></author>
       <description>&lt;p&gt;King Harold of England has his armies ready for the invasion rumored to come. But he can’t keep his armies in the field forever and as fall approaches he disbands them and they prepare for winter.  Then news arrives the Viking King Hadrad had invaded with Harold’s estranged brother and had taken the city of York.&lt;/p&gt;
@@ -458,7 +502,7 @@ The author said he started asking the question at 16, what it would look like if
     <item>
       <title>The Innovators by Walter Isaacson</title>
       <link>http://localhost:8080/articles/innovators/</link>
-      <pubDate>Wed, 21 Jan 2015 01:00:00 +0100</pubDate>
+      <pubDate>Tue, 20 Jan 2015 16:00:00 -0800</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/innovators/</guid>
       <author></author>
       <description>&lt;p&gt;The closing paragraph of the book sums up the story it tells nicely.&lt;/p&gt;
@@ -496,7 +540,7 @@ The author said he started asking the question at 16, what it would look like if
     <item>
       <title>Voltaire by Ian Davidson</title>
       <link>http://localhost:8080/articles/voltaire/</link>
-      <pubDate>Sat, 10 Jan 2015 01:00:00 +0100</pubDate>
+      <pubDate>Fri, 09 Jan 2015 16:00:00 -0800</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/voltaire/</guid>
       <author></author>
       <description>&lt;p&gt;Playwright, poet, letter writer, lover, a founder of the enlightnment and a business man.  Voltaire lived a full life and what a life it was.  Reading about it was fun.&lt;/p&gt;
@@ -517,7 +561,7 @@ The author said he started asking the question at 16, what it would look like if
     <item>
       <title>8 Minute Mediation by Victor Davich</title>
       <link>http://localhost:8080/articles/8-minute-meditation/</link>
-      <pubDate>Sat, 27 Dec 2014 01:00:00 +0100</pubDate>
+      <pubDate>Fri, 26 Dec 2014 16:00:00 -0800</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/8-minute-meditation/</guid>
       <author></author>
       <description>&lt;p&gt;Gain a sharper focus, more patience and more appreciation for this moment in your life through the practice of Meditation. Learning to mediate isn’t hard.&lt;/p&gt;
@@ -538,7 +582,7 @@ The author said he started asking the question at 16, what it would look like if
     <item>
       <title>Tower of Basel by Adam Lebor</title>
       <link>http://localhost:8080/articles/tower-of-basil/</link>
-      <pubDate>Fri, 26 Dec 2014 01:00:00 +0100</pubDate>
+      <pubDate>Thu, 25 Dec 2014 16:00:00 -0800</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/tower-of-basil/</guid>
       <author></author>
       <description>&lt;p&gt;The Bank of International Settlements. A bank that keeps the money flowing in times of peace and war. Loyal to neutrality the bank serviced Nazi Germany and helped enable their war effort and economy.&lt;/p&gt;
@@ -551,7 +595,7 @@ The author said he started asking the question at 16, what it would look like if
     <item>
       <title>Wilderness Discovery Books by John Muir</title>
       <link>http://localhost:8080/articles/john-muir-wilderness-books/</link>
-      <pubDate>Wed, 24 Dec 2014 01:00:00 +0100</pubDate>
+      <pubDate>Tue, 23 Dec 2014 16:00:00 -0800</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/john-muir-wilderness-books/</guid>
       <author></author>
       <description>&lt;p&gt;A rowdy Scottish kid brought up by a puritan father. An inventor of clocks and a few other things. A hiker before hiking was a thing. Walking to the gulf, visiting Cuba and then making his way to California.  The man lived a full life.&lt;/p&gt;
@@ -571,7 +615,7 @@ The author said he started asking the question at 16, what it would look like if
     <item>
       <title>The Story of Philosophy by Will Durant</title>
       <link>http://localhost:8080/articles/story-of-philosopy/</link>
-      <pubDate>Sun, 21 Dec 2014 01:00:00 +0100</pubDate>
+      <pubDate>Sat, 20 Dec 2014 16:00:00 -0800</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/story-of-philosopy/</guid>
       <author></author>
       <description>&lt;p&gt;I discovered a fantastic book a few weeks ago.  I was browsing the library in the topic of history and found Will Durant’s, Story of Philosophy.  I thought it might be boring but I would give it a try. I am glad I did.  &lt;/p&gt;
@@ -591,7 +635,7 @@ The author said he started asking the question at 16, what it would look like if
     <item>
       <title>Spirituality Without Religion by Sam Harris</title>
       <link>http://localhost:8080/articles/spirituality-without-religion/</link>
-      <pubDate>Mon, 24 Nov 2014 01:00:00 +0100</pubDate>
+      <pubDate>Sun, 23 Nov 2014 16:00:00 -0800</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/spirituality-without-religion/</guid>
       <author></author>
       <description>&lt;p&gt;I liked it.  The talk of how the brain creates consciousness.  The ability to calm the mind and examine yourself.  More focus, patience, compassion.&lt;/p&gt;
@@ -615,7 +659,7 @@ The author said he started asking the question at 16, what it would look like if
     <item>
       <title>From Zero to One by Peter Thiel</title>
       <link>http://localhost:8080/articles/from-zero-to-one/</link>
-      <pubDate>Sun, 23 Nov 2014 01:00:00 +0100</pubDate>
+      <pubDate>Sat, 22 Nov 2014 16:00:00 -0800</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/from-zero-to-one/</guid>
       <author></author>
       <description>&lt;p&gt;I like reading these optimistic books. They get me fired up about the world and all the opportunities that exist out there.&lt;/p&gt;
