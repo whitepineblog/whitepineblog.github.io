@@ -1,7 +1,7 @@
 ---
 title: Titan by Chernow
 author: Christen Thompson
-date: 2015-07-24
+date: 2015-08-08
 template: article.jade 
 ---
 
