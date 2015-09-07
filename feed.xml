@@ -5,9 +5,71 @@
     <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://localhost:8080</link>
     <description></description>
-    <pubDate>Fri, 07  Aug 2015 17:00:00 -0700</pubDate>
+    <pubDate>Sun, 06 Sep 2015 17:00:00 -0700</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>The Road to Character by David Brooks</title>
+      <link>http://localhost:8080/articles/2015-09-07-road-character/</link>
+      <pubDate>Sun, 06 Sep 2015 17:00:00 -0700</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/2015-09-07-road-character/</guid>
+      <author></author>
+      <description>&lt;p&gt;What type of life are you living?&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;If you organize your life around your own ants, other people become objects for the satisfaction of your own desires.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Out of our Minds by Ken Robinson</title>
+      <link>http://localhost:8080/articles/2015-09-04-Out-of-Our-Minds/</link>
+      <pubDate>Thu, 03 Sep 2015 17:00:00 -0700</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/2015-09-04-Out-of-Our-Minds/</guid>
+      <author></author>
+      <description>&lt;p&gt;Learning to be creative&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Lost Worlds of South America by Edwin Barnhart</title>
+      <link>http://localhost:8080/articles/2015-08-30-lost-history/</link>
+      <pubDate>Sat, 29  Aug 2015 17:00:00 -0700</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/2015-08-30-lost-history/</guid>
+      <author></author>
+      <description>&lt;p&gt;Cities come and go, civilizations rise and fall. The Fanged Diety stays around through it all.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>The Inexplicable Universe by Niel degrasse Tyson</title>
+      <link>http://localhost:8080/articles/2015-08-25-Mysteries/</link>
+      <pubDate>Mon, 24  Aug 2015 17:00:00 -0700</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/2015-08-25-Mysteries/</guid>
+      <author></author>
+      <description>&lt;p&gt;Relativity, strong forces, weak forces, fields&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>The Adventures of Henry Thoreau by Michael Sims</title>
+      <link>http://localhost:8080/articles/2015-08-20-Thoreau/</link>
+      <pubDate>Wed, 19  Aug 2015 17:00:00 -0700</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/2015-08-20-Thoreau/</guid>
+      <author></author>
+      <description>&lt;p&gt;Thoreau &lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The city of Concord must have been quite the place. Emerson, Hawthorne, Thoreau and other impressive American authors.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Our Declaration by Danielle Allen</title>
+      <link>http://localhost:8080/articles/2015-08-19-Declaration/</link>
+      <pubDate>Tue, 18  Aug 2015 17:00:00 -0700</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/2015-08-19-Declaration/</guid>
+      <author></author>
+      <description>&lt;p&gt;Own it and understand that this document belongs to each of us.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Titan by Chernow</title>
       <link>http://localhost:8080/articles/2015-08-05-titan/</link>
@@ -548,6 +610,23 @@ The author said he started asking the question at 16, what it would look like if
 </description>
     </item>
     <item>
+      <title>The Normans From Raiders to Kings by Lars Brownworth</title>
+      <link>http://localhost:8080/articles/normans/</link>
+      <pubDate>Tue, 20 Jan 2015 16:00:00 -0800</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/normans/</guid>
+      <author></author>
+      <description>&lt;p&gt;King Harold of England has his armies ready for the invasion rumored to come. But he can’t keep his armies in the field forever and as fall approaches he disbands them and they prepare for winter.  Then news arrives the Viking King Hadrad had invaded with Harold’s estranged brother and had taken the city of York.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;York has agreed to give hostages to the vikings at a nearby bridge. So the vikings return to their ships and at the appointed time arrive to receive the hostages. To their surprise they are met with an army instead.&lt;/p&gt;
+&lt;p&gt;King Harold had covered 185 miles in four days with his army and was able to fend of the viking attack. The victory was short lived news came that the Duke of Normandy from France was invading London.  Harold rushed his army back but was defeated and killed.&lt;/p&gt;
+&lt;p&gt;So a Norman became ruler of Britain as well as the most powerful leader in France.&lt;/p&gt;
+&lt;p&gt;The book tells of their rise and fall and rise and fall.  The Normans created a kingdom in Sicily and southern Italy and had a huge impact on Europe during their reigns.&lt;/p&gt;
+&lt;p&gt;I was struck with the futility of these men. They fought, they killed then died and left nothing permanent or prosperous in their wake. Well maybe some did but it didn’t last very long.  &lt;/p&gt;
+&lt;p&gt;It was a violent time to live. It makes me grateful for the rule of law ideas that come down from the Anglo Saxons and their Magna Carta.  &lt;/p&gt;
+&lt;p&gt;All in all it was rather depressing to listen to the terrible things humans have done to each other for power and greed. &lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>The Innovators by Walter Isaacson</title>
       <link>http://localhost:8080/articles/innovators/</link>
       <pubDate>Tue, 20 Jan 2015 16:00:00 -0800</pubDate>
@@ -583,23 +662,6 @@ The author said he started asking the question at 16, what it would look like if
 &lt;p&gt;“Once again the greatest innovation would come not from the people who created the breakthrough but from the people who applied them usefully”&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;The stories in the book were great. Human beings pushing the frontiers of science and knowledge creating the future today.  And it is really exciting. Just today Microsoft announced their augmented reality glasses. I can’t wait to try them to see what I can create with them.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>The Normans From Raiders to Kings by Lars Brownworth</title>
-      <link>http://localhost:8080/articles/normans/</link>
-      <pubDate>Tue, 20 Jan 2015 16:00:00 -0800</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/normans/</guid>
-      <author></author>
-      <description>&lt;p&gt;King Harold of England has his armies ready for the invasion rumored to come. But he can’t keep his armies in the field forever and as fall approaches he disbands them and they prepare for winter.  Then news arrives the Viking King Hadrad had invaded with Harold’s estranged brother and had taken the city of York.&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;York has agreed to give hostages to the vikings at a nearby bridge. So the vikings return to their ships and at the appointed time arrive to receive the hostages. To their surprise they are met with an army instead.&lt;/p&gt;
-&lt;p&gt;King Harold had covered 185 miles in four days with his army and was able to fend of the viking attack. The victory was short lived news came that the Duke of Normandy from France was invading London.  Harold rushed his army back but was defeated and killed.&lt;/p&gt;
-&lt;p&gt;So a Norman became ruler of Britain as well as the most powerful leader in France.&lt;/p&gt;
-&lt;p&gt;The book tells of their rise and fall and rise and fall.  The Normans created a kingdom in Sicily and southern Italy and had a huge impact on Europe during their reigns.&lt;/p&gt;
-&lt;p&gt;I was struck with the futility of these men. They fought, they killed then died and left nothing permanent or prosperous in their wake. Well maybe some did but it didn’t last very long.  &lt;/p&gt;
-&lt;p&gt;It was a violent time to live. It makes me grateful for the rule of law ideas that come down from the Anglo Saxons and their Magna Carta.  &lt;/p&gt;
-&lt;p&gt;All in all it was rather depressing to listen to the terrible things humans have done to each other for power and greed. &lt;/p&gt;
 </description>
     </item>
     <item>
