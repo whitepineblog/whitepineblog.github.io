@@ -8,3 +8,5 @@ template: article.jade
 History of Humans
 
 <span class="more"></span>
+
+From Australopithecus to Alexander the great.  Human pre-history and written history is full of stories about the individual.

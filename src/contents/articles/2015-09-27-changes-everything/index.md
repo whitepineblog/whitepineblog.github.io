@@ -8,3 +8,5 @@ template: article.jade
 Capitalism vs The Environment
 
 <span class="more"></span>
+
+Will we work to save the planet?
