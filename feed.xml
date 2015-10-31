@@ -5,9 +5,27 @@
     <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://localhost:8080</link>
     <description></description>
-    <pubDate>Tue, 13 Oct 2015 17:00:00 -0700</pubDate>
+    <pubDate>Sat, 24 Oct 2015 17:00:00 -0700</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>1491 By Charles C Mann</title>
+      <link>http://localhost:8080/articles/2015-10-25-1491/</link>
+      <pubDate>Sat, 24 Oct 2015 17:00:00 -0700</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/2015-10-25-1491/</guid>
+      <author></author>
+      <description>&lt;p&gt;Re-examining what the America’s were like before contact with the old world.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The Clovis culture 13,000 years ago, evidence of even older habitation in south America.&lt;/p&gt;
+&lt;p&gt;The Homburg mistake: taking a remnant of survivors as representative of the culture.  &lt;/p&gt;
+&lt;p&gt;Devastation caused by the loss of maybe 90% of the population. Reports of numerous towns and large populations and then 50 years later a depopulated place.&lt;/p&gt;
+&lt;p&gt;A landscape that was a giant farm, trees, grasslands maintained by the natives with fire and plantings.&lt;/p&gt;
+&lt;p&gt;The Aztec and Inca conquest. Tenochtitlan was bigger then Paris when it was conquered and had sewer systems and was quite the city.&lt;/p&gt;
+&lt;p&gt;The Mayan cities and their battles for supremacy. The Hopewell culture.  &lt;/p&gt;
+&lt;p&gt;What philosophies and ideas were destroyed when their cultures and traditions were destroyed? No one can read the Inca knot writing. Most of the books were burned by the Spanish.&lt;/p&gt;
+&lt;p&gt;The crops of the world were changed by what the American’s had domesticated.&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Hitch 22 by Christopher Hitchens</title>
       <link>http://localhost:8080/articles/2015-10-14-Hitch/</link>
@@ -686,23 +704,6 @@ The author said he started asking the question at 16, what it would look like if
 </description>
     </item>
     <item>
-      <title>The Normans From Raiders to Kings by Lars Brownworth</title>
-      <link>http://localhost:8080/articles/normans/</link>
-      <pubDate>Tue, 20 Jan 2015 16:00:00 -0800</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/normans/</guid>
-      <author></author>
-      <description>&lt;p&gt;King Harold of England has his armies ready for the invasion rumored to come. But he can’t keep his armies in the field forever and as fall approaches he disbands them and they prepare for winter.  Then news arrives the Viking King Hadrad had invaded with Harold’s estranged brother and had taken the city of York.&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;York has agreed to give hostages to the vikings at a nearby bridge. So the vikings return to their ships and at the appointed time arrive to receive the hostages. To their surprise they are met with an army instead.&lt;/p&gt;
-&lt;p&gt;King Harold had covered 185 miles in four days with his army and was able to fend of the viking attack. The victory was short lived news came that the Duke of Normandy from France was invading London.  Harold rushed his army back but was defeated and killed.&lt;/p&gt;
-&lt;p&gt;So a Norman became ruler of Britain as well as the most powerful leader in France.&lt;/p&gt;
-&lt;p&gt;The book tells of their rise and fall and rise and fall.  The Normans created a kingdom in Sicily and southern Italy and had a huge impact on Europe during their reigns.&lt;/p&gt;
-&lt;p&gt;I was struck with the futility of these men. They fought, they killed then died and left nothing permanent or prosperous in their wake. Well maybe some did but it didn’t last very long.  &lt;/p&gt;
-&lt;p&gt;It was a violent time to live. It makes me grateful for the rule of law ideas that come down from the Anglo Saxons and their Magna Carta.  &lt;/p&gt;
-&lt;p&gt;All in all it was rather depressing to listen to the terrible things humans have done to each other for power and greed. &lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>The Innovators by Walter Isaacson</title>
       <link>http://localhost:8080/articles/innovators/</link>
       <pubDate>Tue, 20 Jan 2015 16:00:00 -0800</pubDate>
@@ -738,6 +739,23 @@ The author said he started asking the question at 16, what it would look like if
 &lt;p&gt;“Once again the greatest innovation would come not from the people who created the breakthrough but from the people who applied them usefully”&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;The stories in the book were great. Human beings pushing the frontiers of science and knowledge creating the future today.  And it is really exciting. Just today Microsoft announced their augmented reality glasses. I can’t wait to try them to see what I can create with them.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>The Normans From Raiders to Kings by Lars Brownworth</title>
+      <link>http://localhost:8080/articles/normans/</link>
+      <pubDate>Tue, 20 Jan 2015 16:00:00 -0800</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/normans/</guid>
+      <author></author>
+      <description>&lt;p&gt;King Harold of England has his armies ready for the invasion rumored to come. But he can’t keep his armies in the field forever and as fall approaches he disbands them and they prepare for winter.  Then news arrives the Viking King Hadrad had invaded with Harold’s estranged brother and had taken the city of York.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;York has agreed to give hostages to the vikings at a nearby bridge. So the vikings return to their ships and at the appointed time arrive to receive the hostages. To their surprise they are met with an army instead.&lt;/p&gt;
+&lt;p&gt;King Harold had covered 185 miles in four days with his army and was able to fend of the viking attack. The victory was short lived news came that the Duke of Normandy from France was invading London.  Harold rushed his army back but was defeated and killed.&lt;/p&gt;
+&lt;p&gt;So a Norman became ruler of Britain as well as the most powerful leader in France.&lt;/p&gt;
+&lt;p&gt;The book tells of their rise and fall and rise and fall.  The Normans created a kingdom in Sicily and southern Italy and had a huge impact on Europe during their reigns.&lt;/p&gt;
+&lt;p&gt;I was struck with the futility of these men. They fought, they killed then died and left nothing permanent or prosperous in their wake. Well maybe some did but it didn’t last very long.  &lt;/p&gt;
+&lt;p&gt;It was a violent time to live. It makes me grateful for the rule of law ideas that come down from the Anglo Saxons and their Magna Carta.  &lt;/p&gt;
+&lt;p&gt;All in all it was rather depressing to listen to the terrible things humans have done to each other for power and greed. &lt;/p&gt;
 </description>
     </item>
     <item>
