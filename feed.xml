@@ -5,9 +5,29 @@
     <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://localhost:8080</link>
     <description></description>
-    <pubDate>Sat, 24 Oct 2015 17:00:00 -0700</pubDate>
+    <pubDate>Mon, 09 Nov 2015 16:00:00 -0800</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>History of Western Philosophy By Bertrand Russell</title>
+      <link>http://localhost:8080/articles/2015-11-10-Philosophy/</link>
+      <pubDate>Mon, 09 Nov 2015 16:00:00 -0800</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/2015-11-10-Philosophy/</guid>
+      <author></author>
+      <description>&lt;p&gt;It begins with the Greeks.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;This tiny area of the Mediterranean produced the founders of western philosophy and thought:&lt;/p&gt;
+&lt;p&gt;Pythagoras - don’t eat beans! 
+Anaxagoras - Sun at the center.
+Heraclitus - ever present change.
+The Sophists:
+Protagoras: “Man is the measure of all things”&lt;/p&gt;
+&lt;p&gt;Socrates, Plato:&lt;/p&gt;
+&lt;p&gt;The ideal.  The idea is real, what we have a see around us are inferior copies.&lt;/p&gt;
+&lt;p&gt;The republic:
+An idea for the ‘perfect city’  no one knew who their parents were, children raised and taught in groups, leaders selected from among the best. Women educated in the same way as men.&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>1491 By Charles C Mann</title>
       <link>http://localhost:8080/articles/2015-10-25-1491/</link>
