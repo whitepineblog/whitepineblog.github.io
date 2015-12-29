@@ -25,3 +25,10 @@ The ideal.  The idea is real, what we have a see around us are inferior copies.
 The republic:
 An idea for the 'perfect city'  no one knew who their parents were, children raised and taught in groups, leaders selected from among the best. Women educated in the same way as men.
 
+Spinoza, Hume, Leibniz, Kant and others. 
+
+The book provided an interesting summary of western thought.
+
+Some philosophers had ideas that ended up having a huge negative effect, other ideas were useful, others were just plainly wrong when tested scientifically.  What is left for philosophy to examine now?
+
+I found it interesting as the scientific revolution came along he included the great thinkers like Galileo.  Testable hypothesis have come to over-ride philosophical thinking. Are we missing things in our culture and society because of that?

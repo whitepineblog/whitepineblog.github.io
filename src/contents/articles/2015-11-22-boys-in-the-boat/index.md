@@ -1,0 +1,16 @@
+---
+title: Boys in the Boat
+author: Christen Thompson
+date: 2015-11-22
+template: article.jade 
+---
+
+From Sequim to Berlin the story of some humans winning a race.
+
+<span class="more"></span>
+
+Joe certainly didn't have it easy. His mother dying, his new step mom convincing his dad to leave Joe behind when they moved during the Great Depression.
+
+He worked hard, made it into UW and on the crew team.  What a story he and the other boys created. They worked hard in school and on the boat. Their coach Al was impressed and there was a rivalry between Washington and California.  California had gone to the 28 and 32 Olympics.
+
+The UW team won some tough races and made it to the Olympics. Their they won gold by a quarter of a second.  What a race it was rowing faster then they have ever rowed before. 
