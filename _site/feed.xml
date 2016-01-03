@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Some Notes</title>
+    <description></description>
+    <link>http://notes.whitepinedev.com/</link>
+    <atom:link href="http://notes.whitepinedev.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 02 Jan 2016 20:59:18 -0800</pubDate>
+    <lastBuildDate>Sat, 02 Jan 2016 20:59:18 -0800</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Our Kids By Robert D. Putnam</title>
+        <description>&lt;p&gt;Obviously the opportunities for children in poor families are much less then for children in more affluent families. This has always been the case.&lt;/p&gt;
+
+&lt;p&gt;But is the difference getting worse?  Is upward mobility as accessible as it was to our parents and grandparents?&lt;/p&gt;
+
+&lt;p&gt;The difference in education is stark in many areas. Extracurricular programs, parental involvement, college enrollment, school culture and the list goes on.&lt;/p&gt;
+
+&lt;p&gt;Comparing the Troy and Santa Ana high schools makes the differences easy to see. At Troy there is a culture of doing well in school, parental involvement, donated money for extra programs. Santa Ana is full of poor families, parents or Grandparents with little education and little time to help. Kids just trying to survive let alone learn.&lt;/p&gt;
+
+&lt;p&gt;Solutions:&lt;/p&gt;
+
+&lt;p&gt;Better parenting, reduce single parents, better community, more volunteering, different forms of teaching see &lt;a href=&quot;http://www.wired.com/2013/10/free-thinkers/&quot;&gt;the recent wired article&lt;/a&gt;, more funding for after school programs, decriminalize drugs, rehabilitation instead of punishment, the importance of preschool education and the list goes on.&lt;/p&gt;
+
+&lt;p&gt;It was an interesting book, one that made me grateful for what I have, and one that made me want to do more to help those around me.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 02 Jan 2016 19:27:29 -0800</pubDate>
+        <link>http://notes.whitepinedev.com/notes/books/2016/01/02/our-kids.html</link>
+        <guid isPermaLink="true">http://notes.whitepinedev.com/notes/books/2016/01/02/our-kids.html</guid>
+        
+        
+        <category>notes</category>
+        
+        <category>books</category>
+        
+      </item>
+    
+      <item>
+        <title>Thinking by John Brockman</title>
+        <description>&lt;p&gt;Get a collection of psychologists to a conference, record their talks and create the transcript.&lt;/p&gt;
+
+&lt;p&gt;The book was interesting, some parts more then others.&lt;/p&gt;
+
+&lt;p&gt;Some ideas I found interesting:&lt;/p&gt;
+
+&lt;p&gt;100 Billion neurons with 1000 connections each, creates possible combinations that number more then the particles in the universe.&lt;/p&gt;
+
+&lt;p&gt;What if neurons have maintained some of the pre multi-cellular independence so that they are cells that work according to their own rules.&lt;/p&gt;
+
+&lt;p&gt;Individual events don’t make you happy or unhappy in the long term.&lt;/p&gt;
+
+&lt;p&gt;Sam Harris talked about how morals shouldn’t be considered relative or allowed if they cause human suffering or pain.&lt;/p&gt;
+
+&lt;p&gt;Is consciousness really something deeper or is it simply a response to all of our inputs.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 15 May 2015 00:00:00 -0700</pubDate>
+        <link>http://notes.whitepinedev.com/notes/books/2015/05/15/thinking.html</link>
+        <guid isPermaLink="true">http://notes.whitepinedev.com/notes/books/2015/05/15/thinking.html</guid>
+        
+        
+        <category>notes</category>
+        
+        <category>books</category>
+        
+      </item>
+    
+      <item>
+        <title>PAC by Leslie Valiant Part II</title>
+        <description>&lt;p&gt;So how does it work anyways?&lt;/p&gt;
+
+&lt;p&gt;In developing a model, or algorithms for cognition he identified 4 challenges.&lt;/p&gt;
+
+&lt;p&gt;The challenges of complexity, brittleness, semantics and grounding.&lt;/p&gt;
+
+&lt;p&gt;NP problems - you don’t have more time then the time in the universe to solve a problem.&lt;/p&gt;
+
+&lt;p&gt;Brittle - Rules are so rigid anything slightly different breaks the algorithm.&lt;/p&gt;
+
+&lt;p&gt;Semantics - Defining the rules.&lt;/p&gt;
+
+&lt;p&gt;Grounding - Recognizing absurd conclusions.&lt;/p&gt;
+
+&lt;p&gt;The idea of a minds eye, a focus point through which we view the world. Our minds can only have between 5 to 9 things in the short term area going on at once.  We don’t consciously perceive or record all the the inputs coming in, just the things we flag as important.  Then that goes into our long term storage which is practically infinite.&lt;/p&gt;
+
+&lt;p&gt;It is like placing yourself in position to catch a thrown football, you keep your eye on it and match your angle to the ball so you and the ball meet.  You don’t track the other 100 variables such as the release speed, the calculation of the parabolic arc, the effect of friction, wind.  Just keep your eye on the ball.&lt;/p&gt;
+
+&lt;p&gt;Our learned knowledge is learned from real world experience but only after filtering.&lt;/p&gt;
+
+&lt;p&gt;Define a scene with t1 … t20 variables.&lt;/p&gt;
+
+&lt;p&gt;Define independently quantified expressions (IQE) that match the seen.&lt;/p&gt;
+
+&lt;p&gt;Such as there exists an elephant in the scene, that elephant likes peanuts.&lt;/p&gt;
+
+&lt;p&gt;Then use a learning algorithm such as the winnow to remove redundant IQE files. And store the valid IQEs into a long term memory.&lt;/p&gt;
+
+&lt;p&gt;These are the Ecorithms: learning, reasoning, and reasoning from learned data.&lt;/p&gt;
+
+&lt;p&gt;Cognitive concepts are computational in that they have to be acquired by some sort of learning algorithm.&lt;/p&gt;
+
+&lt;p&gt;Can the human mind be based on such a simple model?  Leslie Valiant thinks so.&lt;/p&gt;
+
+&lt;p&gt;Adaboost - a method to use weak learning repeatedly to make it strong learning.&lt;/p&gt;
+
+&lt;p&gt;If a database of typical examples can be produced then machine learning can be much more effective.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 09 May 2015 00:00:00 -0700</pubDate>
+        <link>http://notes.whitepinedev.com/notes/books/2015/05/09/pac.html</link>
+        <guid isPermaLink="true">http://notes.whitepinedev.com/notes/books/2015/05/09/pac.html</guid>
+        
+        
+        <category>notes</category>
+        
+        <category>books</category>
+        
+      </item>
+    
+      <item>
+        <title>Superintelligece By Nick Bostrom</title>
+        <description>&lt;p&gt;What happens when humanity create something more powerful then itself?&lt;/p&gt;
+
+&lt;p&gt;Can we replicate human level intelligence in a machine?  Not yet. But many feel that it won’t be very long until we do.  Very long being sometime in the next 100 years.&lt;/p&gt;
+
+&lt;p&gt;We have narrow AI with speech recognition, pattern recognition, chess playing algorithms, Watson and other technologies we use all th time.&lt;/p&gt;
+
+&lt;p&gt;Where will the enhanced AI revolution come from? It could come from a large corporation or nation level project, or maybe a lone person discovers or creates an algorithm that wasn’t thought of before. But when it happens what’s in store for the rest of us on the planet?&lt;/p&gt;
+
+&lt;p&gt;What will be the motivations of the AI? Will it have morals? What will be the results of having an intelligence that is as far beyond humans as humans are beyond a worm or an ant?&lt;/p&gt;
+
+&lt;p&gt;Building in safety, controls and coming up with good solutions to the motivation problem is going to require solving some interesting problems.&lt;/p&gt;
+
+&lt;p&gt;If you had an AI where it’s primary motive was to create the most paperclips as effectively as it could there is a possibility it could eventually replace the surface of the earth, the solar system and the reachable universe with paperclip making factories.  Not really a desirable outcome. So how do you give an AI a respect for life, and the desires of the humans that created it? Precise definitions can be hard as well. Say assigning an AI’s primary task to bring happiness to humanity could result in the AI implanting electrodes in everyones brains to make them feel happy, or to maximize the amount of happiness of the universe it could destroy biological life and run simulations that create happiness in simulated humans.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 05 May 2015 00:00:00 -0700</pubDate>
+        <link>http://notes.whitepinedev.com/notes/books/2015/05/05/superintelligence.html</link>
+        <guid isPermaLink="true">http://notes.whitepinedev.com/notes/books/2015/05/05/superintelligence.html</guid>
+        
+        
+        <category>notes</category>
+        
+        <category>books</category>
+        
+      </item>
+    
+      <item>
+        <title>Creation - How Science Is Reinventing Life Itself by Adam Rutherford</title>
+        <description>&lt;p&gt;DNA is the code of life.  Humans are just now beginning to understand that code and manipulate  “What I cannot create I do not understand” - Richard Feynman&lt;/p&gt;
+
+&lt;p&gt;Life’s code has an alphabet of 4 characters.  These 4 characters are the recipes for creating 20 amino acids.  The 20 amino acids are used to create proteins and are essential to life here on Earth.&lt;/p&gt;
+
+&lt;p&gt;Where did the recipe come from?  Scientists looking back into the evidence of the history of the Earth are missing a lot of evidence due to the early bombardment in the solar system.  Did life arise multiple times only to be wiped out by massive asteroids?  Its possible.  Was the precursor to DNA RNA?  Also possible.  Apparently cosmic dust is full of organic molecules.  Darwin supposed life began in a warm primordial pool and his idea  might not be that far off from the truth. Or was Earth seeded with life from elsewhere.&lt;/p&gt;
+
+&lt;p&gt;Thanks to many years of hard scientific and technological advancement genomes can be sequence, created and altered.  The entire DNA of a bacteria has been created and then placed inside a cell and it worked.  There is work going on in creating a new type of DNA using different molecules. Synthetic biology is happening already.  Just a few days ago several Chinese scientists published a paper about editing the genome in a human embryo.&lt;/p&gt;
+
+&lt;p&gt;DNA can carry code and can be used to store information today.  And it lasts for a long time.  We can still recover data from long dead mammoths. Maybe one day we will be storing archived data in DNA chips.&lt;/p&gt;
+
+&lt;p&gt;Evolution has provided the language of life and humans are going to use it, change it and optimize for their use.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 23 Apr 2015 00:00:00 -0700</pubDate>
+        <link>http://notes.whitepinedev.com/notes/books/2015/04/23/creation.html</link>
+        <guid isPermaLink="true">http://notes.whitepinedev.com/notes/books/2015/04/23/creation.html</guid>
+        
+        
+        <category>notes</category>
+        
+        <category>books</category>
+        
+      </item>
+    
+      <item>
+        <title>Renee Descartes</title>
+        <description>&lt;p&gt;What can you really trust. Your senses can be deceived. Reason can be distilled down and all paradoxes discovered and addressed.&lt;/p&gt;
+
+&lt;p&gt;When dreaming your mind can be fooled to thinking you are awake and any absurd or strange thing you experience feels real to your mind. Even if it doesn’t make sense.&lt;/p&gt;
+
+&lt;p&gt;Descartes if famous for saying I think therefore I am. For his philosophy he wanted to establish what you can really trust.  Can you trust your senses?  He says no.  Take for example dreaming.  When in a dream you often think it is real and your senses say to your mind it is.  Likewise when awake your senses can be deceived.&lt;/p&gt;
+
+&lt;p&gt;Reason or mine own thoughts can be examined.  If there is something incorrect in them eventually I can find the inconsistencies or the paradoxes.  From the establishment of reason and the ability to think as a base Descartes goes on to say that God must exist because a creator or a first thinker is required.&lt;/p&gt;
+
+&lt;p&gt;He was quite the individual, very prolific in his life.  Creating, researching, thinking questioning.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 09 Apr 2015 00:00:00 -0700</pubDate>
+        <link>http://notes.whitepinedev.com/notes/books/2015/04/09/decartes.html</link>
+        <guid isPermaLink="true">http://notes.whitepinedev.com/notes/books/2015/04/09/decartes.html</guid>
+        
+        
+        <category>notes</category>
+        
+        <category>books</category>
+        
+      </item>
+    
+      <item>
+        <title>Meditations by Marcus Aurelias</title>
+        <description>&lt;p&gt;Almost 2000 years ago the emperor of the Roman empire wrote down his notes about his life.  Short sayings and ideas about how to live and what he had learned.&lt;/p&gt;
+
+&lt;p&gt;It is still interesting to read today. He followed the Stoic philosophy. A focus on doing your duty and your best, remembering that death comes to all and you don’t know when so value and use the moment wisely.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“You need to avoid certain things in your train of thought: everything random, everything irrelevant.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Don’t wast the rest of your time worrying about other people-unless it affects the common good. You will be to preoccupied with what so and so is doing, and why, and what they’re saying, and what they’re thinking … and all the other things that throw you off and keep you from focusing on your own mind”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Even if you’re going to live three thousand more years, or ten time that, remember you cannot lose another life than the one you’re living now, or live another one then the one you’re losing.  The longest amounts to the shortest. The present is the same for everyone its loss is the same for everyone and it should be clear that a brief instant is all that is lost. For you can’t lose either the past or the future. How could you lose what you don’t have.”&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Tue, 07 Apr 2015 00:00:00 -0700</pubDate>
+        <link>http://notes.whitepinedev.com/notes/books/2015/04/07/marcus.html</link>
+        <guid isPermaLink="true">http://notes.whitepinedev.com/notes/books/2015/04/07/marcus.html</guid>
+        
+        
+        <category>notes</category>
+        
+        <category>books</category>
+        
+      </item>
+    
+      <item>
+        <title>The Coming Singularity by Ray Kurzweil</title>
+        <description>&lt;p&gt;Organic evolution is slow, human tech evolution is an order of magnitude faster, artificial intelligent evolution and progression will be exponentially faster.&lt;/p&gt;
+
+&lt;p&gt;Human brains are slow, millions of times slower then a computer. But we are really good at recognizing patterns and doing some things that computers can’t do yet.&lt;/p&gt;
+
+&lt;p&gt;Ray proclaims that once we create an AI the future will expand beyond us. And be given to our human creations.&lt;/p&gt;
+
+&lt;p&gt;This will happen on several fronts, intelligence, energy and nano-technology.  With sufficient nano-technology we will be able to replace our blood, replace our organs to solve problems of disease and longevity.&lt;/p&gt;
+
+&lt;p&gt;He talks of how quickly technology is getting better and cheaper, Moore’s law, photo voltaic panels, nano tubes and reversible computing.  The future is quite exciting, he also addresses the concerns of war, terrorism.  We can’t stop funding research or we will be vulnerable to those who keep doing research.&lt;/p&gt;
+
+&lt;p&gt;Self replicating nano-tech will be a game changer, the ability to assemble and create whatever elements we desire for a very low price will change how we access resources. If we can arrange the elements, proteins, amino-acids to create what we want it will change industry, food creation and more.&lt;/p&gt;
+
+&lt;p&gt;Ray is now the head of engineering at google who have recently purchased a slew of interesting companies including Deepmind and Boston Dynamics. The book was written a decade ago and today we are getting closer then ever.  Speech recognition is better, IBM’s Watson is amazing, pattern recognition algorithms are much better and self driving cars work, just waiting for legislation/insurance decisions. Good VR are almost here from Valve, Sony, Facebook and the AR glasses from Microsoft look useful.&lt;/p&gt;
+
+&lt;p&gt;I think the future is going to get more exciting.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 02 Apr 2015 00:00:00 -0700</pubDate>
+        <link>http://notes.whitepinedev.com/notes/books/2015/04/02/singularity.html</link>
+        <guid isPermaLink="true">http://notes.whitepinedev.com/notes/books/2015/04/02/singularity.html</guid>
+        
+        
+        <category>notes</category>
+        
+        <category>books</category>
+        
+      </item>
+    
+      <item>
+        <title>How Not to be wrong by Jordan Ellenberg</title>
+        <description>&lt;p&gt;The answer is use Math. But careful simple algebra doesn’t model the real world close enough or maybe your algebra is wrong.&lt;/p&gt;
+
+&lt;p&gt;Linear extrapolations of non linear graphs, probability, how/when to play a lottery, scatter plots, understanding what the numbers really mean.  Paying attention to the numbers.&lt;/p&gt;
+
+&lt;p&gt;Trends are not always linear. In fact they usually aren’t.  Sometimes they will level off at some point.  So in 2050 110% of Americans wont be fat!&lt;/p&gt;
+
+&lt;p&gt;We have a problem with studies.  Are the results really significant?  Often times not really.  Oh and don’t play the lottery, unless it is calculated to give you a good return, which a Massachusetts lottery did for a while until it stopped.&lt;/p&gt;
+
+&lt;p&gt;The book was light heartedly serious and fun to read. Proposals for new ways to use votes to select the winner. I learned about David Hilbert’s 23 questions for mathematics and lots of other cool ideas.&lt;/p&gt;
+
+&lt;p&gt;One can create their own math or geometries that sometimes actually turn out to be quite useful.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 30 Mar 2015 00:00:00 -0700</pubDate>
+        <link>http://notes.whitepinedev.com/notes/books/2015/03/30/not-to-be-wrong.html</link>
+        <guid isPermaLink="true">http://notes.whitepinedev.com/notes/books/2015/03/30/not-to-be-wrong.html</guid>
+        
+        
+        <category>notes</category>
+        
+        <category>books</category>
+        
+      </item>
+    
+      <item>
+        <title>Stuff Matters by Mark Miodownik</title>
+        <description>&lt;p&gt;Steel, Cement, Paper, Chocolate, Carbon, Ceramics and other materials and their significance are examined in this fun to read little book written by a material scientist.&lt;/p&gt;
+
+&lt;p&gt;Iron was nice, steel was much nicer. The Samurai swords were the best for over 400 years. The process of removing impurities flattening and putting the brittle type of steel on the edge made it top notch tech.  Then Benjamin Huntsman figured out if you blow air through a molten iron ore you could remove impurities to make a better cheaper steel.  Then they figured out that adding carbon back in makes it stronger. Stainless steel was discovered quite by accident at a Gillete factory. The secret was the thin layer of chromium that prevented oxygen from contacting the iron and creating iron oxide.&lt;/p&gt;
+
+&lt;p&gt;Did you know concrete has terrible tensile strength?  It does great under compression. That is why the dome of the Pantheon is still standing. But check it out if you add steel to your concrete you get the best of both worlds, luckily they have very similar expansion and compression ratios.&lt;/p&gt;
+
+&lt;p&gt;I was fascinated by the stories of the material discovery, manufacturing and the effect it has had on the world and human society.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 19 Mar 2015 00:00:00 -0700</pubDate>
+        <link>http://notes.whitepinedev.com/notes/books/2015/03/19/stuff.html</link>
+        <guid isPermaLink="true">http://notes.whitepinedev.com/notes/books/2015/03/19/stuff.html</guid>
+        
+        
+        <category>notes</category>
+        
+        <category>books</category>
+        
+      </item>
+    
+  </channel>
+</rss>
