@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Islam adn the Future of Tolerance By Sam Harris, Maajid Nawaz"
+title:  "Islam and the Future of Tolerance By Sam Harris, Maajid Nawaz"
 date:   2016-01-10 19:27:29 -0800
 categories: notes books
 ---
