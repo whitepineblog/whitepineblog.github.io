@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mystery of the Nile by By Richard Bangs and Pasquale Scaturro"
+title:  "Mystery of the Nile by Richard Bangs and Pasquale Scaturro"
 date:   2016-09-01
 categories: notes books
 ---
