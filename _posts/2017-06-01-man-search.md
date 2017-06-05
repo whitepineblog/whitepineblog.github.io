@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Man's Search for Meaning by Viktor Frankl"
+title:  "Man Search for Meaning by Viktor Frankl"
 date:   2017-04-04
 categories: notes books
 ---
