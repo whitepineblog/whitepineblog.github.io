@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Destined for War by Graham Allison"
-date:   2017-05-16
+date:   2017-06-18
 categories: notes books
 ---
 Thucydedes saw it happen to the greek city states of Athens and Sparta, the rising power ended up fighting a war that caused destruction on both sides that neither really wanted.
