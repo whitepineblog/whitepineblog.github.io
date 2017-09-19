@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Country of Vast Designs by Robert W. Merry
+title:  Country of Vast Designs by Robert W. Merry
 date:   2017-06-30
 categories: notes books
 ---
