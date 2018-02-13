@@ -35,7 +35,11 @@ Fitness tracker for cycling/biking or any other sport.
 Many short free tutorials that take you from absolute beginner. Also has paid options.
 
 #### Lenovo Yoga Book
-Simple tablet/2 in 1 that I have used to start learning how to do some digital art. [Yoga Book on Amazon for $339.85](https://www.amazon.com/gp/product/B01M6W1LET/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01M6W1LET&linkCode=as2&tag=whitepinedevn-20&linkId=0a176902c629bff104e4283a13e886e8)
+Simple tablet/2 in 1 that I have used to start learning how to do some digital art. [Yoga Book on Amazon for $339.85](https://www.amazon.com/gp/product/B01M6W1LET/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01M6W1LET&linkCode=as2&
+tag=whitepinedevn-20&linkId=0a176902c629bff104e4283a13e886e8)
+
+#### [Line of Action](https://line-of-action.com/)
+Image slideshows to practive drawing.
 
 
 #### [AutoDesk Sketchbook](https://www.sketchbook.com/?locale=en)
