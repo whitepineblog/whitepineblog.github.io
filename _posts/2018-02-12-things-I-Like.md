@@ -59,6 +59,11 @@ Efficient 1.5 acre farm grossing $350,000 a year
 #### [Slide Ranch](http://slideranch.org/)
 Partnership between National Park and non profit creating a place for kids and families to come and learn about farming and the outdoors.
 
+# Things to learn from
+### [Intelligence Squared](https://www.youtube.com/channel/UCenxjWEkb0Sv67vejOgZ3Tg)
+
+Debating on topics ranging from should I eat things with a face to politics, religion, education and other questions about society.
+
 
 
 
